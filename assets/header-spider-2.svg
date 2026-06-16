@@ -16,19 +16,19 @@
       <feGaussianBlur stdDeviation="2.2" result="b"/>
       <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
-    <g id="spider" fill="currentColor" stroke="currentColor" stroke-width="3.5" stroke-linecap="round">
-      <!-- legs -->
-      <path d="M -12,-24 Q -42,-44 -70,-50" fill="none"/>
-      <path d="M -13,-18 Q -48,-26 -78,-22" fill="none"/>
-      <path d="M -13,-12 Q -48,-2 -78,6"   fill="none"/>
-      <path d="M -12,-6  Q -40,18 -64,34"  fill="none"/>
-      <path d="M 12,-24 Q 42,-44 70,-50" fill="none"/>
-      <path d="M 13,-18 Q 48,-26 78,-22" fill="none"/>
-      <path d="M 13,-12 Q 48,-2 78,6"    fill="none"/>
-      <path d="M 12,-6  Q 40,18 64,34"   fill="none"/>
-      <!-- body -->
-      <ellipse cx="0" cy="-16" rx="14" ry="17" stroke="none"/>
-      <ellipse cx="0" cy="20" rx="22" ry="28" stroke="none"/>
+    <g id="spider" fill="currentColor" stroke="none">
+      <!-- sharp tapering legs (Spider-Man emblem style) -->
+      <path d="M -8,-24 L -54,-52 L -102,-58 L -6,-16 Z"/>
+      <path d="M -9,-15 L -58,-30 L -110,-26 L -7,-7 Z"/>
+      <path d="M -9,-5  L -58,-6  L -110,6   L -7,3 Z"/>
+      <path d="M -8,4   L -52,16  L -96,42   L -6,12 Z"/>
+      <path d="M 8,-24 L 54,-52 L 102,-58 L 6,-16 Z"/>
+      <path d="M 9,-15 L 58,-30 L 110,-26 L 7,-7 Z"/>
+      <path d="M 9,-5  L 58,-6  L 110,6   L 7,3 Z"/>
+      <path d="M 8,4   L 52,16  L 96,42   L 6,12 Z"/>
+      <!-- slim body -->
+      <ellipse cx="0" cy="-18" rx="9" ry="11"/>
+      <ellipse cx="0" cy="16" rx="13" ry="30"/>
     </g>
   </defs>
 
@@ -44,10 +44,10 @@
   <text x="600" y="25" text-anchor="middle" font-size="13" fill="#565f89">root@devshm3: ~/redteam — secure shell</text>
 
   <!-- web thread -->
-  <line x1="1052" y1="38" x2="1052" y2="128" stroke="#565f89" stroke-width="1" opacity="0.55"/>
+  <line x1="1042" y1="38" x2="1042" y2="138" stroke="#565f89" stroke-width="1" opacity="0.55"/>
 
   <!-- glitch spider -->
-  <g transform="translate(1052 170)" filter="url(#glow)">
+  <g transform="translate(1042 172)" filter="url(#glow)">
     <g>
       <use href="#spider" xlink:href="#spider" color="#7dcfff" opacity="0.5">
         <animate attributeName="x" values="0;-3;2;0;1;0" dur="2.8s" repeatCount="indefinite"/>
@@ -57,20 +57,16 @@
       </use>
       <use href="#spider" xlink:href="#spider" color="#c0caf5"/>
       <!-- red hourglass marking -->
-      <path d="M -7,8 L 7,8 L 0,20 Z M -7,32 L 7,32 L 0,20 Z" fill="#f7768e"/>
+      <path d="M -6,4 L 6,4 L 0,16 Z M -6,28 L 6,28 L 0,16 Z" fill="#f7768e"/>
       <!-- fangs -->
-      <path d="M -5,-2 L -2,8 L -7,4 Z M 5,-2 L 2,8 L 7,4 Z" fill="#1a1b26"/>
+      <path d="M -4,-4 L -1,6 L -6,2 Z M 4,-4 L 1,6 L 6,2 Z" fill="#1a1b26"/>
       <!-- glowing eyes -->
-      <circle cx="-5" cy="-26" r="3" fill="#f7768e">
+      <circle cx="-4" cy="-24" r="2.6" fill="#f7768e">
         <animate attributeName="opacity" values="1;0.3;1;0.6;1" dur="1.8s" repeatCount="indefinite"/>
       </circle>
-      <circle cx="5" cy="-26" r="3" fill="#f7768e">
+      <circle cx="4" cy="-24" r="2.6" fill="#f7768e">
         <animate attributeName="opacity" values="0.6;1;0.3;1;0.6" dur="1.8s" repeatCount="indefinite"/>
       </circle>
-      <circle cx="-11" cy="-22" r="1.4" fill="#f7768e"/>
-      <circle cx="11" cy="-22" r="1.4" fill="#f7768e"/>
-      <circle cx="-2" cy="-30" r="1.2" fill="#f7768e"/>
-      <circle cx="2" cy="-30" r="1.2" fill="#f7768e"/>
       <!-- subtle creeping sway -->
       <animateTransform attributeName="transform" type="rotate" values="0 0 0;1.6 0 0;-1.6 0 0;0 0 0" dur="4.5s" repeatCount="indefinite"/>
     </g>

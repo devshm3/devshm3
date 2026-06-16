@@ -8,17 +8,17 @@
     <pattern id="fgrid" width="26" height="26" patternUnits="userSpaceOnUse">
       <path d="M26 0H0V26" fill="none" stroke="#7aa2f7" stroke-width="0.5" opacity="0.06"/>
     </pattern>
-    <g id="fspider" fill="currentColor" stroke="currentColor" stroke-width="3.5" stroke-linecap="round">
-      <path d="M -12,-24 Q -42,-44 -70,-50" fill="none"/>
-      <path d="M -13,-18 Q -48,-26 -78,-22" fill="none"/>
-      <path d="M -13,-12 Q -48,-2 -78,6"   fill="none"/>
-      <path d="M -12,-6  Q -40,18 -64,34"  fill="none"/>
-      <path d="M 12,-24 Q 42,-44 70,-50" fill="none"/>
-      <path d="M 13,-18 Q 48,-26 78,-22" fill="none"/>
-      <path d="M 13,-12 Q 48,-2 78,6"    fill="none"/>
-      <path d="M 12,-6  Q 40,18 64,34"   fill="none"/>
-      <ellipse cx="0" cy="-16" rx="14" ry="17" stroke="none"/>
-      <ellipse cx="0" cy="20" rx="22" ry="28" stroke="none"/>
+    <g id="fspider" fill="currentColor" stroke="none">
+      <path d="M -8,-24 L -54,-52 L -102,-58 L -6,-16 Z"/>
+      <path d="M -9,-15 L -58,-30 L -110,-26 L -7,-7 Z"/>
+      <path d="M -9,-5  L -58,-6  L -110,6   L -7,3 Z"/>
+      <path d="M -8,4   L -52,16  L -96,42   L -6,12 Z"/>
+      <path d="M 8,-24 L 54,-52 L 102,-58 L 6,-16 Z"/>
+      <path d="M 9,-15 L 58,-30 L 110,-26 L 7,-7 Z"/>
+      <path d="M 9,-5  L 58,-6  L 110,6   L 7,3 Z"/>
+      <path d="M 8,4   L 52,16  L 96,42   L 6,12 Z"/>
+      <ellipse cx="0" cy="-18" rx="9" ry="11"/>
+      <ellipse cx="0" cy="16" rx="13" ry="30"/>
     </g>
   </defs>
 
@@ -26,8 +26,8 @@
   <rect x="2" y="2" width="1196" height="126" rx="12" fill="url(#fgrid)"/>
 
   <!-- web thread + glitch spider -->
-  <line x1="60" y1="4" x2="60" y2="44" stroke="#565f89" stroke-width="1" opacity="0.55"/>
-  <g transform="translate(60 66) scale(0.46)">
+  <line x1="62" y1="4" x2="62" y2="48" stroke="#565f89" stroke-width="1" opacity="0.55"/>
+  <g transform="translate(62 70) scale(0.42)">
     <g>
       <use href="#fspider" xlink:href="#fspider" color="#f7768e" opacity="0.45">
         <animate attributeName="x" values="0;4;-3;0" dur="2.8s" repeatCount="indefinite"/>
@@ -36,12 +36,12 @@
         <animate attributeName="x" values="0;-4;3;0" dur="2.8s" repeatCount="indefinite"/>
       </use>
       <use href="#fspider" xlink:href="#fspider" color="#c0caf5"/>
-      <path d="M -7,8 L 7,8 L 0,20 Z M -7,32 L 7,32 L 0,20 Z" fill="#f7768e"/>
-      <path d="M -5,-2 L -2,8 L -7,4 Z M 5,-2 L 2,8 L 7,4 Z" fill="#1a1b26"/>
-      <circle cx="-5" cy="-26" r="3" fill="#f7768e">
+      <path d="M -6,4 L 6,4 L 0,16 Z M -6,28 L 6,28 L 0,16 Z" fill="#f7768e"/>
+      <path d="M -4,-4 L -1,6 L -6,2 Z M 4,-4 L 1,6 L 6,2 Z" fill="#1a1b26"/>
+      <circle cx="-4" cy="-24" r="2.6" fill="#f7768e">
         <animate attributeName="opacity" values="1;0.3;1" dur="1.6s" repeatCount="indefinite"/>
       </circle>
-      <circle cx="5" cy="-26" r="3" fill="#f7768e">
+      <circle cx="4" cy="-24" r="2.6" fill="#f7768e">
         <animate attributeName="opacity" values="0.3;1;0.3" dur="1.6s" repeatCount="indefinite"/>
       </circle>
       <animateTransform attributeName="transform" type="rotate" values="0 0 0;1.6 0 0;-1.6 0 0;0 0 0" dur="4.5s" repeatCount="indefinite"/>
