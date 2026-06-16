@@ -5,7 +5,7 @@
 
 <!-- ── BANNER (self-hosted, original SVG — assets/header.svg) ────── -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devshm3/devshm3/main/assets/header.svg" width="100%" alt="devshm3 — red team breach console" />
+  <img src="https://raw.githubusercontent.com/devshm3/devshm3/main/assets/header.svg?v=2" width="100%" alt="devshm3 — red team breach console" />
 </p>
 
 <!-- ── TYPING INTRO ─────────────────────────────────────────────── -->
@@ -110,5 +110,5 @@ devshm3@github:~$ whoami
 
 <!-- ── FOOTER (self-hosted, original SVG — assets/footer.svg) ────── -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devshm3/devshm3/main/assets/footer.svg" width="100%" alt="connection to target closed" />
+  <img src="https://raw.githubusercontent.com/devshm3/devshm3/main/assets/footer.svg?v=2" width="100%" alt="connection to target closed" />
 </p>
