@@ -80,13 +80,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=devshm3&theme=tokyonight&hide_border=true" alt="streak" />
 </p>
 
-<!-- ── CONTRIBUTION SNAKE ───────────────────────────────────────── -->
+<!-- ── MATRIX DATA STREAM (self-hosted, original — assets/matrix.svg) ── -->
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devshm3/devshm3/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devshm3/devshm3/output/github-contribution-grid-snake.svg" />
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/devshm3/devshm3/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/devshm3/devshm3/main/assets/matrix.svg" width="100%" alt="incoming data stream" />
 </p>
 
 <!-- ── ACTIVITY GRAPH ───────────────────────────────────────────── -->

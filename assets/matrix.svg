@@ -1,0 +1,1139 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 220" width="1200" height="220" font-family="'Courier New', Courier, monospace" font-size="16" font-weight="bold">
+<defs>
+<linearGradient id="medge" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#f7768e"/><stop offset="0.5" stop-color="#7aa2f7"/><stop offset="1" stop-color="#bb9af7"/></linearGradient>
+<clipPath id="mclip"><rect x="6" y="30" width="1188" height="184" rx="8"/></clipPath>
+</defs>
+<rect x="2" y="2" width="1196" height="216" rx="12" fill="#1a1b26" stroke="url(#medge)" stroke-width="2"/>
+<path d="M2 14a12 12 0 0 1 12-12h1172a12 12 0 0 1 12 12v16H2z" fill="#16161e"/>
+<circle cx="28" cy="16" r="6" fill="#f7768e"/>
+<circle cx="48" cy="16" r="6" fill="#e0af68"/>
+<circle cx="68" cy="16" r="6" fill="#9ece6a"/>
+<text x="600" y="21" text-anchor="middle" font-size="13" font-weight="normal" fill="#565f89">// incoming_data.stream — decrypting</text>
+<g clip-path="url(#mclip)">
+<text x="20" y="-182" fill="#7aa2f7">
+<tspan x="20" dy="0" fill-opacity="0.1">*</tspan>
+<tspan x="20" dy="20" fill-opacity="0.19">5</tspan>
+<tspan x="20" dy="20" fill-opacity="0.28">$</tspan>
+<tspan x="20" dy="20" fill-opacity="0.37">%</tspan>
+<tspan x="20" dy="20" fill-opacity="0.46">A</tspan>
+<tspan x="20" dy="20" fill-opacity="0.55">C</tspan>
+<tspan x="20" dy="20" fill-opacity="0.64">|</tspan>
+<tspan x="20" dy="20" fill-opacity="0.73">#</tspan>
+<tspan x="20" dy="20" fill-opacity="0.82">B</tspan>
+<tspan x="20" dy="20" fill-opacity="0.91">9</tspan>
+<tspan x="20" dy="20" fill="#c0caf5" fill-opacity="1">C</tspan>
+<tspan x="20" dy="20" fill-opacity="0.1">*</tspan>
+<tspan x="20" dy="20" fill-opacity="0.19">5</tspan>
+<tspan x="20" dy="20" fill-opacity="0.28">$</tspan>
+<tspan x="20" dy="20" fill-opacity="0.37">%</tspan>
+<tspan x="20" dy="20" fill-opacity="0.46">A</tspan>
+<tspan x="20" dy="20" fill-opacity="0.55">C</tspan>
+<tspan x="20" dy="20" fill-opacity="0.64">|</tspan>
+<tspan x="20" dy="20" fill-opacity="0.73">#</tspan>
+<tspan x="20" dy="20" fill-opacity="0.82">B</tspan>
+<tspan x="20" dy="20" fill-opacity="0.91">9</tspan>
+<tspan x="20" dy="20" fill="#c0caf5" fill-opacity="1">C</tspan>
+<animateTransform attributeName="transform" type="translate" values="0 0;0 220" dur="9.1s" begin="-5.2s" calcMode="linear" repeatCount="indefinite"/>
+</text>
+<text x="43" y="-182" fill="#bb9af7">
+<tspan x="43" dy="0" fill-opacity="0.1">D</tspan>
+<tspan x="43" dy="20" fill-opacity="0.19">%</tspan>
+<tspan x="43" dy="20" fill-opacity="0.28">|</tspan>
+<tspan x="43" dy="20" fill-opacity="0.37">C</tspan>
+<tspan x="43" dy="20" fill-opacity="0.46">1</tspan>
+<tspan x="43" dy="20" fill-opacity="0.55">2</tspan>
+<tspan x="43" dy="20" fill-opacity="0.64">&lt;</tspan>
+<tspan x="43" dy="20" fill-opacity="0.73">+</tspan>
+<tspan x="43" dy="20" fill-opacity="0.82">=</tspan>
+<tspan x="43" dy="20" fill-opacity="0.91">B</tspan>
+<tspan x="43" dy="20" fill="#c0caf5" fill-opacity="1">1</tspan>
+<tspan x="43" dy="20" fill-opacity="0.1">D</tspan>
+<tspan x="43" dy="20" fill-opacity="0.19">%</tspan>
+<tspan x="43" dy="20" fill-opacity="0.28">|</tspan>
+<tspan x="43" dy="20" fill-opacity="0.37">C</tspan>
+<tspan x="43" dy="20" fill-opacity="0.46">1</tspan>
+<tspan x="43" dy="20" fill-opacity="0.55">2</tspan>
+<tspan x="43" dy="20" fill-opacity="0.64">&lt;</tspan>
+<tspan x="43" dy="20" fill-opacity="0.73">+</tspan>
+<tspan x="43" dy="20" fill-opacity="0.82">=</tspan>
+<tspan x="43" dy="20" fill-opacity="0.91">B</tspan>
+<tspan x="43" dy="20" fill="#c0caf5" fill-opacity="1">1</tspan>
+<animateTransform attributeName="transform" type="translate" values="0 0;0 220" dur="10.1s" begin="-3.69s" calcMode="linear" repeatCount="indefinite"/>
+</text>
+<text x="71" y="-182" fill="#7dcfff">
+<tspan x="71" dy="0" fill-opacity="0.1">=</tspan>
+<tspan x="71" dy="20" fill-opacity="0.19">0</tspan>
+<tspan x="71" dy="20" fill-opacity="0.28">%</tspan>
+<tspan x="71" dy="20" fill-opacity="0.37">B</tspan>
+<tspan x="71" dy="20" fill-opacity="0.46">\</tspan>
+<tspan x="71" dy="20" fill-opacity="0.55">3</tspan>
+<tspan x="71" dy="20" fill-opacity="0.64">E</tspan>
+<tspan x="71" dy="20" fill-opacity="0.73">7</tspan>
+<tspan x="71" dy="20" fill-opacity="0.82">5</tspan>
+<tspan x="71" dy="20" fill-opacity="0.91">#</tspan>
+<tspan x="71" dy="20" fill="#c0caf5" fill-opacity="1">0</tspan>
+<tspan x="71" dy="20" fill-opacity="0.1">=</tspan>
+<tspan x="71" dy="20" fill-opacity="0.19">0</tspan>
+<tspan x="71" dy="20" fill-opacity="0.28">%</tspan>
+<tspan x="71" dy="20" fill-opacity="0.37">B</tspan>
+<tspan x="71" dy="20" fill-opacity="0.46">\</tspan>
+<tspan x="71" dy="20" fill-opacity="0.55">3</tspan>
+<tspan x="71" dy="20" fill-opacity="0.64">E</tspan>
+<tspan x="71" dy="20" fill-opacity="0.73">7</tspan>
+<tspan x="71" dy="20" fill-opacity="0.82">5</tspan>
+<tspan x="71" dy="20" fill-opacity="0.91">#</tspan>
+<tspan x="71" dy="20" fill="#c0caf5" fill-opacity="1">0</tspan>
+<animateTransform attributeName="transform" type="translate" values="0 0;0 220" dur="9.7s" begin="-7.76s" calcMode="linear" repeatCount="indefinite"/>
+</text>
+<text x="96" y="-182" fill="#bb9af7">
+<tspan x="96" dy="0" fill-opacity="0.1">E</tspan>
+<tspan x="96" dy="20" fill-opacity="0.19">\</tspan>
+<tspan x="96" dy="20" fill-opacity="0.28">8</tspan>
+<tspan x="96" dy="20" fill-opacity="0.37">#</tspan>
+<tspan x="96" dy="20" fill-opacity="0.46">6</tspan>
+<tspan x="96" dy="20" fill-opacity="0.55">&gt;</tspan>
+<tspan x="96" dy="20" fill-opacity="0.64">2</tspan>
+<tspan x="96" dy="20" fill-opacity="0.73">|</tspan>
+<tspan x="96" dy="20" fill-opacity="0.82">&lt;</tspan>
+<tspan x="96" dy="20" fill-opacity="0.91">\</tspan>
+<tspan x="96" dy="20" fill="#c0caf5" fill-opacity="1">/</tspan>
+<tspan x="96" dy="20" fill-opacity="0.1">E</tspan>
+<tspan x="96" dy="20" fill-opacity="0.19">\</tspan>
+<tspan x="96" dy="20" fill-opacity="0.28">8</tspan>
+<tspan x="96" dy="20" fill-opacity="0.37">#</tspan>
+<tspan x="96" dy="20" fill-opacity="0.46">6</tspan>
+<tspan x="96" dy="20" fill-opacity="0.55">&gt;</tspan>
+<tspan x="96" dy="20" fill-opacity="0.64">2</tspan>
+<tspan x="96" dy="20" fill-opacity="0.73">|</tspan>
+<tspan x="96" dy="20" fill-opacity="0.82">&lt;</tspan>
+<tspan x="96" dy="20" fill-opacity="0.91">\</tspan>
+<tspan x="96" dy="20" fill="#c0caf5" fill-opacity="1">/</tspan>
+<animateTransform attributeName="transform" type="translate" values="0 0;0 220" dur="9.0s" begin="-8.24s" calcMode="linear" repeatCount="indefinite"/>
+</text>
+<text x="120" y="-182" fill="#9ece6a">
+<tspan x="120" dy="0" fill-opacity="0.1">\</tspan>
+<tspan x="120" dy="20" fill-opacity="0.19">1</tspan>
+<tspan x="120" dy="20" fill-opacity="0.28">=</tspan>
+<tspan x="120" dy="20" fill-opacity="0.37">0</tspan>
+<tspan x="120" dy="20" fill-opacity="0.46">|</tspan>
+<tspan x="120" dy="20" fill-opacity="0.55">6</tspan>
+<tspan x="120" dy="20" fill-opacity="0.64">6</tspan>
+<tspan x="120" dy="20" fill-opacity="0.73">3</tspan>
+<tspan x="120" dy="20" fill-opacity="0.82">9</tspan>
+<tspan x="120" dy="20" fill-opacity="0.91">6</tspan>
+<tspan x="120" dy="20" fill="#c0caf5" fill-opacity="1">E</tspan>
+<tspan x="120" dy="20" fill-opacity="0.1">\</tspan>
+<tspan x="120" dy="20" fill-opacity="0.19">1</tspan>
+<tspan x="120" dy="20" fill-opacity="0.28">=</tspan>
+<tspan x="120" dy="20" fill-opacity="0.37">0</tspan>
+<tspan x="120" dy="20" fill-opacity="0.46">|</tspan>
+<tspan x="120" dy="20" fill-opacity="0.55">6</tspan>
+<tspan x="120" dy="20" fill-opacity="0.64">6</tspan>
+<tspan x="120" dy="20" fill-opacity="0.73">3</tspan>
+<tspan x="120" dy="20" fill-opacity="0.82">9</tspan>
+<tspan x="120" dy="20" fill-opacity="0.91">6</tspan>
+<tspan x="120" dy="20" fill="#c0caf5" fill-opacity="1">E</tspan>
+<animateTransform attributeName="transform" type="translate" values="0 0;0 220" dur="7.1s" begin="-4.64s" calcMode="linear" repeatCount="indefinite"/>
+</text>
+<text x="150" y="-182" fill="#7dcfff">
+<tspan x="150" dy="0" fill-opacity="0.1">A</tspan>
+<tspan x="150" dy="20" fill-opacity="0.19">D</tspan>
+<tspan x="150" dy="20" fill-opacity="0.28">/</tspan>
+<tspan x="150" dy="20" fill-opacity="0.37">#</tspan>
+<tspan x="150" dy="20" fill-opacity="0.46">7</tspan>
+<tspan x="150" dy="20" fill-opacity="0.55">&gt;</tspan>
+<tspan x="150" dy="20" fill-opacity="0.64">1</tspan>
+<tspan x="150" dy="20" fill-opacity="0.73">$</tspan>
+<tspan x="150" dy="20" fill-opacity="0.82">&gt;</tspan>
+<tspan x="150" dy="20" fill-opacity="0.91">*</tspan>
+<tspan x="150" dy="20" fill="#c0caf5" fill-opacity="1">|</tspan>
+<tspan x="150" dy="20" fill-opacity="0.1">A</tspan>
+<tspan x="150" dy="20" fill-opacity="0.19">D</tspan>
+<tspan x="150" dy="20" fill-opacity="0.28">/</tspan>
+<tspan x="150" dy="20" fill-opacity="0.37">#</tspan>
+<tspan x="150" dy="20" fill-opacity="0.46">7</tspan>
+<tspan x="150" dy="20" fill-opacity="0.55">&gt;</tspan>
+<tspan x="150" dy="20" fill-opacity="0.64">1</tspan>
+<tspan x="150" dy="20" fill-opacity="0.73">$</tspan>
+<tspan x="150" dy="20" fill-opacity="0.82">&gt;</tspan>
+<tspan x="150" dy="20" fill-opacity="0.91">*</tspan>
+<tspan x="150" dy="20" fill="#c0caf5" fill-opacity="1">|</tspan>
+<animateTransform attributeName="transform" type="translate" values="0 0;0 220" dur="4.6s" begin="-4.31s" calcMode="linear" repeatCount="indefinite"/>
+</text>
+<text x="174" y="-182" fill="#9ece6a">
+<tspan x="174" dy="0" fill-opacity="0.1">&lt;</tspan>
+<tspan x="174" dy="20" fill-opacity="0.19">&lt;</tspan>
+<tspan x="174" dy="20" fill-opacity="0.28">5</tspan>
+<tspan x="174" dy="20" fill-opacity="0.37">$</tspan>
+<tspan x="174" dy="20" fill-opacity="0.46">=</tspan>
+<tspan x="174" dy="20" fill-opacity="0.55">1</tspan>
+<tspan x="174" dy="20" fill-opacity="0.64">*</tspan>
+<tspan x="174" dy="20" fill-opacity="0.73">F</tspan>
+<tspan x="174" dy="20" fill-opacity="0.82">+</tspan>
+<tspan x="174" dy="20" fill-opacity="0.91">*</tspan>
+<tspan x="174" dy="20" fill="#c0caf5" fill-opacity="1">/</tspan>
+<tspan x="174" dy="20" fill-opacity="0.1">&lt;</tspan>
+<tspan x="174" dy="20" fill-opacity="0.19">&lt;</tspan>
+<tspan x="174" dy="20" fill-opacity="0.28">5</tspan>
+<tspan x="174" dy="20" fill-opacity="0.37">$</tspan>
+<tspan x="174" dy="20" fill-opacity="0.46">=</tspan>
+<tspan x="174" dy="20" fill-opacity="0.55">1</tspan>
+<tspan x="174" dy="20" fill-opacity="0.64">*</tspan>
+<tspan x="174" dy="20" fill-opacity="0.73">F</tspan>
+<tspan x="174" dy="20" fill-opacity="0.82">+</tspan>
+<tspan x="174" dy="20" fill-opacity="0.91">*</tspan>
+<tspan x="174" dy="20" fill="#c0caf5" fill-opacity="1">/</tspan>
+<animateTransform attributeName="transform" type="translate" values="0 0;0 220" dur="8.5s" begin="-1.54s" calcMode="linear" repeatCount="indefinite"/>
+</text>
+<text x="201" y="-182" fill="#9ece6a">
+<tspan x="201" dy="0" fill-opacity="0.1">$</tspan>
+<tspan x="201" dy="20" fill-opacity="0.19">|</tspan>
+<tspan x="201" dy="20" fill-opacity="0.28">*</tspan>
+<tspan x="201" dy="20" fill-opacity="0.37">B</tspan>
+<tspan x="201" dy="20" fill-opacity="0.46">*</tspan>
+<tspan x="201" dy="20" fill-opacity="0.55">&gt;</tspan>
+<tspan x="201" dy="20" fill-opacity="0.64">#</tspan>
+<tspan x="201" dy="20" fill-opacity="0.73">/</tspan>
+<tspan x="201" dy="20" fill-opacity="0.82">|</tspan>
+<tspan x="201" dy="20" fill-opacity="0.91">8</tspan>
+<tspan x="201" dy="20" fill="#c0caf5" fill-opacity="1">8</tspan>
+<tspan x="201" dy="20" fill-opacity="0.1">$</tspan>
+<tspan x="201" dy="20" fill-opacity="0.19">|</tspan>
+<tspan x="201" dy="20" fill-opacity="0.28">*</tspan>
+<tspan x="201" dy="20" fill-opacity="0.37">B</tspan>
+<tspan x="201" dy="20" fill-opacity="0.46">*</tspan>
+<tspan x="201" dy="20" fill-opacity="0.55">&gt;</tspan>
+<tspan x="201" dy="20" fill-opacity="0.64">#</tspan>
+<tspan x="201" dy="20" fill-opacity="0.73">/</tspan>
+<tspan x="201" dy="20" fill-opacity="0.82">|</tspan>
+<tspan x="201" dy="20" fill-opacity="0.91">8</tspan>
+<tspan x="201" dy="20" fill="#c0caf5" fill-opacity="1">8</tspan>
+<animateTransform attributeName="transform" type="translate" values="0 0;0 220" dur="9.7s" begin="-4.73s" calcMode="linear" repeatCount="indefinite"/>
+</text>
+<text x="224" y="-182" fill="#bb9af7">
+<tspan x="224" dy="0" fill-opacity="0.1">5</tspan>
+<tspan x="224" dy="20" fill-opacity="0.19">A</tspan>
+<tspan x="224" dy="20" fill-opacity="0.28">%</tspan>
+<tspan x="224" dy="20" fill-opacity="0.37">2</tspan>
+<tspan x="224" dy="20" fill-opacity="0.46">6</tspan>
+<tspan x="224" dy="20" fill-opacity="0.55">E</tspan>
+<tspan x="224" dy="20" fill-opacity="0.64">&gt;</tspan>
+<tspan x="224" dy="20" fill-opacity="0.73">%</tspan>
+<tspan x="224" dy="20" fill-opacity="0.82">8</tspan>
+<tspan x="224" dy="20" fill-opacity="0.91">1</tspan>
+<tspan x="224" dy="20" fill="#c0caf5" fill-opacity="1">1</tspan>
+<tspan x="224" dy="20" fill-opacity="0.1">5</tspan>
+<tspan x="224" dy="20" fill-opacity="0.19">A</tspan>
+<tspan x="224" dy="20" fill-opacity="0.28">%</tspan>
+<tspan x="224" dy="20" fill-opacity="0.37">2</tspan>
+<tspan x="224" dy="20" fill-opacity="0.46">6</tspan>
+<tspan x="224" dy="20" fill-opacity="0.55">E</tspan>
+<tspan x="224" dy="20" fill-opacity="0.64">&gt;</tspan>
+<tspan x="224" dy="20" fill-opacity="0.73">%</tspan>
+<tspan x="224" dy="20" fill-opacity="0.82">8</tspan>
+<tspan x="224" dy="20" fill-opacity="0.91">1</tspan>
+<tspan x="224" dy="20" fill="#c0caf5" fill-opacity="1">1</tspan>
+<animateTransform attributeName="transform" type="translate" values="0 0;0 220" dur="5.3s" begin="-0.31s" calcMode="linear" repeatCount="indefinite"/>
+</text>
+<text x="254" y="-182" fill="#9ece6a">
+<tspan x="254" dy="0" fill-opacity="0.1">1</tspan>
+<tspan x="254" dy="20" fill-opacity="0.19">1</tspan>
+<tspan x="254" dy="20" fill-opacity="0.28">D</tspan>
+<tspan x="254" dy="20" fill-opacity="0.37">9</tspan>
+<tspan x="254" dy="20" fill-opacity="0.46">*</tspan>
+<tspan x="254" dy="20" fill-opacity="0.55">4</tspan>
+<tspan x="254" dy="20" fill-opacity="0.64">1</tspan>
+<tspan x="254" dy="20" fill-opacity="0.73">|</tspan>
+<tspan x="254" dy="20" fill-opacity="0.82">E</tspan>
+<tspan x="254" dy="20" fill-opacity="0.91">B</tspan>
+<tspan x="254" dy="20" fill="#c0caf5" fill-opacity="1">C</tspan>
+<tspan x="254" dy="20" fill-opacity="0.1">1</tspan>
+<tspan x="254" dy="20" fill-opacity="0.19">1</tspan>
+<tspan x="254" dy="20" fill-opacity="0.28">D</tspan>
+<tspan x="254" dy="20" fill-opacity="0.37">9</tspan>
+<tspan x="254" dy="20" fill-opacity="0.46">*</tspan>
+<tspan x="254" dy="20" fill-opacity="0.55">4</tspan>
+<tspan x="254" dy="20" fill-opacity="0.64">1</tspan>
+<tspan x="254" dy="20" fill-opacity="0.73">|</tspan>
+<tspan x="254" dy="20" fill-opacity="0.82">E</tspan>
+<tspan x="254" dy="20" fill-opacity="0.91">B</tspan>
+<tspan x="254" dy="20" fill="#c0caf5" fill-opacity="1">C</tspan>
+<animateTransform attributeName="transform" type="translate" values="0 0;0 220" dur="7.3s" begin="-4.43s" calcMode="linear" repeatCount="indefinite"/>
+</text>
+<text x="276" y="-182" fill="#9ece6a">
+<tspan x="276" dy="0" fill-opacity="0.1">\</tspan>
+<tspan x="276" dy="20" fill-opacity="0.19">8</tspan>
+<tspan x="276" dy="20" fill-opacity="0.28">+</tspan>
+<tspan x="276" dy="20" fill-opacity="0.37">6</tspan>
+<tspan x="276" dy="20" fill-opacity="0.46">6</tspan>
+<tspan x="276" dy="20" fill-opacity="0.55">4</tspan>
+<tspan x="276" dy="20" fill-opacity="0.64">F</tspan>
+<tspan x="276" dy="20" fill-opacity="0.73">C</tspan>
+<tspan x="276" dy="20" fill-opacity="0.82">\</tspan>
+<tspan x="276" dy="20" fill-opacity="0.91">D</tspan>
+<tspan x="276" dy="20" fill="#c0caf5" fill-opacity="1">&gt;</tspan>
+<tspan x="276" dy="20" fill-opacity="0.1">\</tspan>
+<tspan x="276" dy="20" fill-opacity="0.19">8</tspan>
+<tspan x="276" dy="20" fill-opacity="0.28">+</tspan>
+<tspan x="276" dy="20" fill-opacity="0.37">6</tspan>
+<tspan x="276" dy="20" fill-opacity="0.46">6</tspan>
+<tspan x="276" dy="20" fill-opacity="0.55">4</tspan>
+<tspan x="276" dy="20" fill-opacity="0.64">F</tspan>
+<tspan x="276" dy="20" fill-opacity="0.73">C</tspan>
+<tspan x="276" dy="20" fill-opacity="0.82">\</tspan>
+<tspan x="276" dy="20" fill-opacity="0.91">D</tspan>
+<tspan x="276" dy="20" fill="#c0caf5" fill-opacity="1">&gt;</tspan>
+<animateTransform attributeName="transform" type="translate" values="0 0;0 220" dur="6.8s" begin="-4.6s" calcMode="linear" repeatCount="indefinite"/>
+</text>
+<text x="304" y="-182" fill="#9ece6a">
+<tspan x="304" dy="0" fill-opacity="0.1">A</tspan>
+<tspan x="304" dy="20" fill-opacity="0.19">C</tspan>
+<tspan x="304" dy="20" fill-opacity="0.28">\</tspan>
+<tspan x="304" dy="20" fill-opacity="0.37">6</tspan>
+<tspan x="304" dy="20" fill-opacity="0.46">#</tspan>
+<tspan x="304" dy="20" fill-opacity="0.55">$</tspan>
+<tspan x="304" dy="20" fill-opacity="0.64">\</tspan>
+<tspan x="304" dy="20" fill-opacity="0.73">D</tspan>
+<tspan x="304" dy="20" fill-opacity="0.82">5</tspan>
+<tspan x="304" dy="20" fill-opacity="0.91">+</tspan>
+<tspan x="304" dy="20" fill="#c0caf5" fill-opacity="1">F</tspan>
+<tspan x="304" dy="20" fill-opacity="0.1">A</tspan>
+<tspan x="304" dy="20" fill-opacity="0.19">C</tspan>
+<tspan x="304" dy="20" fill-opacity="0.28">\</tspan>
+<tspan x="304" dy="20" fill-opacity="0.37">6</tspan>
+<tspan x="304" dy="20" fill-opacity="0.46">#</tspan>
+<tspan x="304" dy="20" fill-opacity="0.55">$</tspan>
+<tspan x="304" dy="20" fill-opacity="0.64">\</tspan>
+<tspan x="304" dy="20" fill-opacity="0.73">D</tspan>
+<tspan x="304" dy="20" fill-opacity="0.82">5</tspan>
+<tspan x="304" dy="20" fill-opacity="0.91">+</tspan>
+<tspan x="304" dy="20" fill="#c0caf5" fill-opacity="1">F</tspan>
+<animateTransform attributeName="transform" type="translate" values="0 0;0 220" dur="5.9s" begin="-5.85s" calcMode="linear" repeatCount="indefinite"/>
+</text>
+<text x="332" y="-182" fill="#bb9af7">
+<tspan x="332" dy="0" fill-opacity="0.1">&gt;</tspan>
+<tspan x="332" dy="20" fill-opacity="0.19">\</tspan>
+<tspan x="332" dy="20" fill-opacity="0.28">6</tspan>
+<tspan x="332" dy="20" fill-opacity="0.37">|</tspan>
+<tspan x="332" dy="20" fill-opacity="0.46">D</tspan>
+<tspan x="332" dy="20" fill-opacity="0.55">9</tspan>
+<tspan x="332" dy="20" fill-opacity="0.64">$</tspan>
+<tspan x="332" dy="20" fill-opacity="0.73">&gt;</tspan>
+<tspan x="332" dy="20" fill-opacity="0.82">A</tspan>
+<tspan x="332" dy="20" fill-opacity="0.91">$</tspan>
+<tspan x="332" dy="20" fill="#c0caf5" fill-opacity="1">C</tspan>
+<tspan x="332" dy="20" fill-opacity="0.1">&gt;</tspan>
+<tspan x="332" dy="20" fill-opacity="0.19">\</tspan>
+<tspan x="332" dy="20" fill-opacity="0.28">6</tspan>
+<tspan x="332" dy="20" fill-opacity="0.37">|</tspan>
+<tspan x="332" dy="20" fill-opacity="0.46">D</tspan>
+<tspan x="332" dy="20" fill-opacity="0.55">9</tspan>
+<tspan x="332" dy="20" fill-opacity="0.64">$</tspan>
+<tspan x="332" dy="20" fill-opacity="0.73">&gt;</tspan>
+<tspan x="332" dy="20" fill-opacity="0.82">A</tspan>
+<tspan x="332" dy="20" fill-opacity="0.91">$</tspan>
+<tspan x="332" dy="20" fill="#c0caf5" fill-opacity="1">C</tspan>
+<animateTransform attributeName="transform" type="translate" values="0 0;0 220" dur="8.6s" begin="-0.34s" calcMode="linear" repeatCount="indefinite"/>
+</text>
+<text x="356" y="-182" fill="#9ece6a">
+<tspan x="356" dy="0" fill-opacity="0.1">/</tspan>
+<tspan x="356" dy="20" fill-opacity="0.19">C</tspan>
+<tspan x="356" dy="20" fill-opacity="0.28">|</tspan>
+<tspan x="356" dy="20" fill-opacity="0.37">C</tspan>
+<tspan x="356" dy="20" fill-opacity="0.46">4</tspan>
+<tspan x="356" dy="20" fill-opacity="0.55">\</tspan>
+<tspan x="356" dy="20" fill-opacity="0.64">%</tspan>
+<tspan x="356" dy="20" fill-opacity="0.73">8</tspan>
+<tspan x="356" dy="20" fill-opacity="0.82">$</tspan>
+<tspan x="356" dy="20" fill-opacity="0.91">*</tspan>
+<tspan x="356" dy="20" fill="#c0caf5" fill-opacity="1">7</tspan>
+<tspan x="356" dy="20" fill-opacity="0.1">/</tspan>
+<tspan x="356" dy="20" fill-opacity="0.19">C</tspan>
+<tspan x="356" dy="20" fill-opacity="0.28">|</tspan>
+<tspan x="356" dy="20" fill-opacity="0.37">C</tspan>
+<tspan x="356" dy="20" fill-opacity="0.46">4</tspan>
+<tspan x="356" dy="20" fill-opacity="0.55">\</tspan>
+<tspan x="356" dy="20" fill-opacity="0.64">%</tspan>
+<tspan x="356" dy="20" fill-opacity="0.73">8</tspan>
+<tspan x="356" dy="20" fill-opacity="0.82">$</tspan>
+<tspan x="356" dy="20" fill-opacity="0.91">*</tspan>
+<tspan x="356" dy="20" fill="#c0caf5" fill-opacity="1">7</tspan>
+<animateTransform attributeName="transform" type="translate" values="0 0;0 220" dur="10.5s" begin="-9.36s" calcMode="linear" repeatCount="indefinite"/>
+</text>
+<text x="383" y="-182" fill="#bb9af7">
+<tspan x="383" dy="0" fill-opacity="0.1">A</tspan>
+<tspan x="383" dy="20" fill-opacity="0.19">2</tspan>
+<tspan x="383" dy="20" fill-opacity="0.28">%</tspan>
+<tspan x="383" dy="20" fill-opacity="0.37">8</tspan>
+<tspan x="383" dy="20" fill-opacity="0.46">F</tspan>
+<tspan x="383" dy="20" fill-opacity="0.55">&lt;</tspan>
+<tspan x="383" dy="20" fill-opacity="0.64">%</tspan>
+<tspan x="383" dy="20" fill-opacity="0.73">\</tspan>
+<tspan x="383" dy="20" fill-opacity="0.82">C</tspan>
+<tspan x="383" dy="20" fill-opacity="0.91">4</tspan>
+<tspan x="383" dy="20" fill="#c0caf5" fill-opacity="1">1</tspan>
+<tspan x="383" dy="20" fill-opacity="0.1">A</tspan>
+<tspan x="383" dy="20" fill-opacity="0.19">2</tspan>
+<tspan x="383" dy="20" fill-opacity="0.28">%</tspan>
+<tspan x="383" dy="20" fill-opacity="0.37">8</tspan>
+<tspan x="383" dy="20" fill-opacity="0.46">F</tspan>
+<tspan x="383" dy="20" fill-opacity="0.55">&lt;</tspan>
+<tspan x="383" dy="20" fill-opacity="0.64">%</tspan>
+<tspan x="383" dy="20" fill-opacity="0.73">\</tspan>
+<tspan x="383" dy="20" fill-opacity="0.82">C</tspan>
+<tspan x="383" dy="20" fill-opacity="0.91">4</tspan>
+<tspan x="383" dy="20" fill="#c0caf5" fill-opacity="1">1</tspan>
+<animateTransform attributeName="transform" type="translate" values="0 0;0 220" dur="5.1s" begin="-3.54s" calcMode="linear" repeatCount="indefinite"/>
+</text>
+<text x="410" y="-182" fill="#7aa2f7">
+<tspan x="410" dy="0" fill-opacity="0.1">3</tspan>
+<tspan x="410" dy="20" fill-opacity="0.19">=</tspan>
+<tspan x="410" dy="20" fill-opacity="0.28">7</tspan>
+<tspan x="410" dy="20" fill-opacity="0.37">9</tspan>
+<tspan x="410" dy="20" fill-opacity="0.46">1</tspan>
+<tspan x="410" dy="20" fill-opacity="0.55">F</tspan>
+<tspan x="410" dy="20" fill-opacity="0.64">#</tspan>
+<tspan x="410" dy="20" fill-opacity="0.73">+</tspan>
+<tspan x="410" dy="20" fill-opacity="0.82">6</tspan>
+<tspan x="410" dy="20" fill-opacity="0.91">B</tspan>
+<tspan x="410" dy="20" fill="#c0caf5" fill-opacity="1">&gt;</tspan>
+<tspan x="410" dy="20" fill-opacity="0.1">3</tspan>
+<tspan x="410" dy="20" fill-opacity="0.19">=</tspan>
+<tspan x="410" dy="20" fill-opacity="0.28">7</tspan>
+<tspan x="410" dy="20" fill-opacity="0.37">9</tspan>
+<tspan x="410" dy="20" fill-opacity="0.46">1</tspan>
+<tspan x="410" dy="20" fill-opacity="0.55">F</tspan>
+<tspan x="410" dy="20" fill-opacity="0.64">#</tspan>
+<tspan x="410" dy="20" fill-opacity="0.73">+</tspan>
+<tspan x="410" dy="20" fill-opacity="0.82">6</tspan>
+<tspan x="410" dy="20" fill-opacity="0.91">B</tspan>
+<tspan x="410" dy="20" fill="#c0caf5" fill-opacity="1">&gt;</tspan>
+<animateTransform attributeName="transform" type="translate" values="0 0;0 220" dur="7.0s" begin="-4.48s" calcMode="linear" repeatCount="indefinite"/>
+</text>
+<text x="434" y="-182" fill="#7dcfff">
+<tspan x="434" dy="0" fill-opacity="0.1">0</tspan>
+<tspan x="434" dy="20" fill-opacity="0.19">=</tspan>
+<tspan x="434" dy="20" fill-opacity="0.28">4</tspan>
+<tspan x="434" dy="20" fill-opacity="0.37">&lt;</tspan>
+<tspan x="434" dy="20" fill-opacity="0.46">$</tspan>
+<tspan x="434" dy="20" fill-opacity="0.55">/</tspan>
+<tspan x="434" dy="20" fill-opacity="0.64">=</tspan>
+<tspan x="434" dy="20" fill-opacity="0.73">|</tspan>
+<tspan x="434" dy="20" fill-opacity="0.82">1</tspan>
+<tspan x="434" dy="20" fill-opacity="0.91">|</tspan>
+<tspan x="434" dy="20" fill="#c0caf5" fill-opacity="1">&gt;</tspan>
+<tspan x="434" dy="20" fill-opacity="0.1">0</tspan>
+<tspan x="434" dy="20" fill-opacity="0.19">=</tspan>
+<tspan x="434" dy="20" fill-opacity="0.28">4</tspan>
+<tspan x="434" dy="20" fill-opacity="0.37">&lt;</tspan>
+<tspan x="434" dy="20" fill-opacity="0.46">$</tspan>
+<tspan x="434" dy="20" fill-opacity="0.55">/</tspan>
+<tspan x="434" dy="20" fill-opacity="0.64">=</tspan>
+<tspan x="434" dy="20" fill-opacity="0.73">|</tspan>
+<tspan x="434" dy="20" fill-opacity="0.82">1</tspan>
+<tspan x="434" dy="20" fill-opacity="0.91">|</tspan>
+<tspan x="434" dy="20" fill="#c0caf5" fill-opacity="1">&gt;</tspan>
+<animateTransform attributeName="transform" type="translate" values="0 0;0 220" dur="8.3s" begin="-0.85s" calcMode="linear" repeatCount="indefinite"/>
+</text>
+<text x="461" y="-182" fill="#7dcfff">
+<tspan x="461" dy="0" fill-opacity="0.1">2</tspan>
+<tspan x="461" dy="20" fill-opacity="0.19">0</tspan>
+<tspan x="461" dy="20" fill-opacity="0.28">|</tspan>
+<tspan x="461" dy="20" fill-opacity="0.37">*</tspan>
+<tspan x="461" dy="20" fill-opacity="0.46">\</tspan>
+<tspan x="461" dy="20" fill-opacity="0.55">F</tspan>
+<tspan x="461" dy="20" fill-opacity="0.64">E</tspan>
+<tspan x="461" dy="20" fill-opacity="0.73">*</tspan>
+<tspan x="461" dy="20" fill-opacity="0.82">*</tspan>
+<tspan x="461" dy="20" fill-opacity="0.91">0</tspan>
+<tspan x="461" dy="20" fill="#c0caf5" fill-opacity="1">5</tspan>
+<tspan x="461" dy="20" fill-opacity="0.1">2</tspan>
+<tspan x="461" dy="20" fill-opacity="0.19">0</tspan>
+<tspan x="461" dy="20" fill-opacity="0.28">|</tspan>
+<tspan x="461" dy="20" fill-opacity="0.37">*</tspan>
+<tspan x="461" dy="20" fill-opacity="0.46">\</tspan>
+<tspan x="461" dy="20" fill-opacity="0.55">F</tspan>
+<tspan x="461" dy="20" fill-opacity="0.64">E</tspan>
+<tspan x="461" dy="20" fill-opacity="0.73">*</tspan>
+<tspan x="461" dy="20" fill-opacity="0.82">*</tspan>
+<tspan x="461" dy="20" fill-opacity="0.91">0</tspan>
+<tspan x="461" dy="20" fill="#c0caf5" fill-opacity="1">5</tspan>
+<animateTransform attributeName="transform" type="translate" values="0 0;0 220" dur="4.6s" begin="-0.68s" calcMode="linear" repeatCount="indefinite"/>
+</text>
+<text x="485" y="-182" fill="#9ece6a">
+<tspan x="485" dy="0" fill-opacity="0.1">1</tspan>
+<tspan x="485" dy="20" fill-opacity="0.19">+</tspan>
+<tspan x="485" dy="20" fill-opacity="0.28">|</tspan>
+<tspan x="485" dy="20" fill-opacity="0.37">#</tspan>
+<tspan x="485" dy="20" fill-opacity="0.46">E</tspan>
+<tspan x="485" dy="20" fill-opacity="0.55">E</tspan>
+<tspan x="485" dy="20" fill-opacity="0.64">+</tspan>
+<tspan x="485" dy="20" fill-opacity="0.73">#</tspan>
+<tspan x="485" dy="20" fill-opacity="0.82">C</tspan>
+<tspan x="485" dy="20" fill-opacity="0.91">=</tspan>
+<tspan x="485" dy="20" fill="#c0caf5" fill-opacity="1">9</tspan>
+<tspan x="485" dy="20" fill-opacity="0.1">1</tspan>
+<tspan x="485" dy="20" fill-opacity="0.19">+</tspan>
+<tspan x="485" dy="20" fill-opacity="0.28">|</tspan>
+<tspan x="485" dy="20" fill-opacity="0.37">#</tspan>
+<tspan x="485" dy="20" fill-opacity="0.46">E</tspan>
+<tspan x="485" dy="20" fill-opacity="0.55">E</tspan>
+<tspan x="485" dy="20" fill-opacity="0.64">+</tspan>
+<tspan x="485" dy="20" fill-opacity="0.73">#</tspan>
+<tspan x="485" dy="20" fill-opacity="0.82">C</tspan>
+<tspan x="485" dy="20" fill-opacity="0.91">=</tspan>
+<tspan x="485" dy="20" fill="#c0caf5" fill-opacity="1">9</tspan>
+<animateTransform attributeName="transform" type="translate" values="0 0;0 220" dur="6.0s" begin="-1.34s" calcMode="linear" repeatCount="indefinite"/>
+</text>
+<text x="512" y="-182" fill="#9ece6a">
+<tspan x="512" dy="0" fill-opacity="0.1">|</tspan>
+<tspan x="512" dy="20" fill-opacity="0.19">3</tspan>
+<tspan x="512" dy="20" fill-opacity="0.28">#</tspan>
+<tspan x="512" dy="20" fill-opacity="0.37">5</tspan>
+<tspan x="512" dy="20" fill-opacity="0.46">2</tspan>
+<tspan x="512" dy="20" fill-opacity="0.55">+</tspan>
+<tspan x="512" dy="20" fill-opacity="0.64">0</tspan>
+<tspan x="512" dy="20" fill-opacity="0.73">9</tspan>
+<tspan x="512" dy="20" fill-opacity="0.82">|</tspan>
+<tspan x="512" dy="20" fill-opacity="0.91">=</tspan>
+<tspan x="512" dy="20" fill="#c0caf5" fill-opacity="1">0</tspan>
+<tspan x="512" dy="20" fill-opacity="0.1">|</tspan>
+<tspan x="512" dy="20" fill-opacity="0.19">3</tspan>
+<tspan x="512" dy="20" fill-opacity="0.28">#</tspan>
+<tspan x="512" dy="20" fill-opacity="0.37">5</tspan>
+<tspan x="512" dy="20" fill-opacity="0.46">2</tspan>
+<tspan x="512" dy="20" fill-opacity="0.55">+</tspan>
+<tspan x="512" dy="20" fill-opacity="0.64">0</tspan>
+<tspan x="512" dy="20" fill-opacity="0.73">9</tspan>
+<tspan x="512" dy="20" fill-opacity="0.82">|</tspan>
+<tspan x="512" dy="20" fill-opacity="0.91">=</tspan>
+<tspan x="512" dy="20" fill="#c0caf5" fill-opacity="1">0</tspan>
+<animateTransform attributeName="transform" type="translate" values="0 0;0 220" dur="9.0s" begin="-3.18s" calcMode="linear" repeatCount="indefinite"/>
+</text>
+<text x="537" y="-182" fill="#9ece6a">
+<tspan x="537" dy="0" fill-opacity="0.1">5</tspan>
+<tspan x="537" dy="20" fill-opacity="0.19">&gt;</tspan>
+<tspan x="537" dy="20" fill-opacity="0.28">|</tspan>
+<tspan x="537" dy="20" fill-opacity="0.37">C</tspan>
+<tspan x="537" dy="20" fill-opacity="0.46">/</tspan>
+<tspan x="537" dy="20" fill-opacity="0.55">\</tspan>
+<tspan x="537" dy="20" fill-opacity="0.64">7</tspan>
+<tspan x="537" dy="20" fill-opacity="0.73">1</tspan>
+<tspan x="537" dy="20" fill-opacity="0.82">1</tspan>
+<tspan x="537" dy="20" fill-opacity="0.91">D</tspan>
+<tspan x="537" dy="20" fill="#c0caf5" fill-opacity="1">7</tspan>
+<tspan x="537" dy="20" fill-opacity="0.1">5</tspan>
+<tspan x="537" dy="20" fill-opacity="0.19">&gt;</tspan>
+<tspan x="537" dy="20" fill-opacity="0.28">|</tspan>
+<tspan x="537" dy="20" fill-opacity="0.37">C</tspan>
+<tspan x="537" dy="20" fill-opacity="0.46">/</tspan>
+<tspan x="537" dy="20" fill-opacity="0.55">\</tspan>
+<tspan x="537" dy="20" fill-opacity="0.64">7</tspan>
+<tspan x="537" dy="20" fill-opacity="0.73">1</tspan>
+<tspan x="537" dy="20" fill-opacity="0.82">1</tspan>
+<tspan x="537" dy="20" fill-opacity="0.91">D</tspan>
+<tspan x="537" dy="20" fill="#c0caf5" fill-opacity="1">7</tspan>
+<animateTransform attributeName="transform" type="translate" values="0 0;0 220" dur="8.9s" begin="-0.95s" calcMode="linear" repeatCount="indefinite"/>
+</text>
+<text x="565" y="-182" fill="#7dcfff">
+<tspan x="565" dy="0" fill-opacity="0.1">*</tspan>
+<tspan x="565" dy="20" fill-opacity="0.19">6</tspan>
+<tspan x="565" dy="20" fill-opacity="0.28">2</tspan>
+<tspan x="565" dy="20" fill-opacity="0.37">2</tspan>
+<tspan x="565" dy="20" fill-opacity="0.46">2</tspan>
+<tspan x="565" dy="20" fill-opacity="0.55">0</tspan>
+<tspan x="565" dy="20" fill-opacity="0.64">|</tspan>
+<tspan x="565" dy="20" fill-opacity="0.73">=</tspan>
+<tspan x="565" dy="20" fill-opacity="0.82">4</tspan>
+<tspan x="565" dy="20" fill-opacity="0.91">B</tspan>
+<tspan x="565" dy="20" fill="#c0caf5" fill-opacity="1">8</tspan>
+<tspan x="565" dy="20" fill-opacity="0.1">*</tspan>
+<tspan x="565" dy="20" fill-opacity="0.19">6</tspan>
+<tspan x="565" dy="20" fill-opacity="0.28">2</tspan>
+<tspan x="565" dy="20" fill-opacity="0.37">2</tspan>
+<tspan x="565" dy="20" fill-opacity="0.46">2</tspan>
+<tspan x="565" dy="20" fill-opacity="0.55">0</tspan>
+<tspan x="565" dy="20" fill-opacity="0.64">|</tspan>
+<tspan x="565" dy="20" fill-opacity="0.73">=</tspan>
+<tspan x="565" dy="20" fill-opacity="0.82">4</tspan>
+<tspan x="565" dy="20" fill-opacity="0.91">B</tspan>
+<tspan x="565" dy="20" fill="#c0caf5" fill-opacity="1">8</tspan>
+<animateTransform attributeName="transform" type="translate" values="0 0;0 220" dur="10.0s" begin="-4.62s" calcMode="linear" repeatCount="indefinite"/>
+</text>
+<text x="592" y="-182" fill="#7dcfff">
+<tspan x="592" dy="0" fill-opacity="0.1">=</tspan>
+<tspan x="592" dy="20" fill-opacity="0.19">7</tspan>
+<tspan x="592" dy="20" fill-opacity="0.28">1</tspan>
+<tspan x="592" dy="20" fill-opacity="0.37">&gt;</tspan>
+<tspan x="592" dy="20" fill-opacity="0.46">&gt;</tspan>
+<tspan x="592" dy="20" fill-opacity="0.55">3</tspan>
+<tspan x="592" dy="20" fill-opacity="0.64">0</tspan>
+<tspan x="592" dy="20" fill-opacity="0.73">|</tspan>
+<tspan x="592" dy="20" fill-opacity="0.82">C</tspan>
+<tspan x="592" dy="20" fill-opacity="0.91">8</tspan>
+<tspan x="592" dy="20" fill="#c0caf5" fill-opacity="1">&lt;</tspan>
+<tspan x="592" dy="20" fill-opacity="0.1">=</tspan>
+<tspan x="592" dy="20" fill-opacity="0.19">7</tspan>
+<tspan x="592" dy="20" fill-opacity="0.28">1</tspan>
+<tspan x="592" dy="20" fill-opacity="0.37">&gt;</tspan>
+<tspan x="592" dy="20" fill-opacity="0.46">&gt;</tspan>
+<tspan x="592" dy="20" fill-opacity="0.55">3</tspan>
+<tspan x="592" dy="20" fill-opacity="0.64">0</tspan>
+<tspan x="592" dy="20" fill-opacity="0.73">|</tspan>
+<tspan x="592" dy="20" fill-opacity="0.82">C</tspan>
+<tspan x="592" dy="20" fill-opacity="0.91">8</tspan>
+<tspan x="592" dy="20" fill="#c0caf5" fill-opacity="1">&lt;</tspan>
+<animateTransform attributeName="transform" type="translate" values="0 0;0 220" dur="4.7s" begin="-4.4s" calcMode="linear" repeatCount="indefinite"/>
+</text>
+<text x="618" y="-182" fill="#7dcfff">
+<tspan x="618" dy="0" fill-opacity="0.1">0</tspan>
+<tspan x="618" dy="20" fill-opacity="0.19">0</tspan>
+<tspan x="618" dy="20" fill-opacity="0.28">D</tspan>
+<tspan x="618" dy="20" fill-opacity="0.37">9</tspan>
+<tspan x="618" dy="20" fill-opacity="0.46">F</tspan>
+<tspan x="618" dy="20" fill-opacity="0.55">B</tspan>
+<tspan x="618" dy="20" fill-opacity="0.64">1</tspan>
+<tspan x="618" dy="20" fill-opacity="0.73">$</tspan>
+<tspan x="618" dy="20" fill-opacity="0.82">=</tspan>
+<tspan x="618" dy="20" fill-opacity="0.91">A</tspan>
+<tspan x="618" dy="20" fill="#c0caf5" fill-opacity="1">0</tspan>
+<tspan x="618" dy="20" fill-opacity="0.1">0</tspan>
+<tspan x="618" dy="20" fill-opacity="0.19">0</tspan>
+<tspan x="618" dy="20" fill-opacity="0.28">D</tspan>
+<tspan x="618" dy="20" fill-opacity="0.37">9</tspan>
+<tspan x="618" dy="20" fill-opacity="0.46">F</tspan>
+<tspan x="618" dy="20" fill-opacity="0.55">B</tspan>
+<tspan x="618" dy="20" fill-opacity="0.64">1</tspan>
+<tspan x="618" dy="20" fill-opacity="0.73">$</tspan>
+<tspan x="618" dy="20" fill-opacity="0.82">=</tspan>
+<tspan x="618" dy="20" fill-opacity="0.91">A</tspan>
+<tspan x="618" dy="20" fill="#c0caf5" fill-opacity="1">0</tspan>
+<animateTransform attributeName="transform" type="translate" values="0 0;0 220" dur="5.5s" begin="-5.05s" calcMode="linear" repeatCount="indefinite"/>
+</text>
+<text x="644" y="-182" fill="#9ece6a">
+<tspan x="644" dy="0" fill-opacity="0.1">%</tspan>
+<tspan x="644" dy="20" fill-opacity="0.19">$</tspan>
+<tspan x="644" dy="20" fill-opacity="0.28">B</tspan>
+<tspan x="644" dy="20" fill-opacity="0.37">#</tspan>
+<tspan x="644" dy="20" fill-opacity="0.46">D</tspan>
+<tspan x="644" dy="20" fill-opacity="0.55">\</tspan>
+<tspan x="644" dy="20" fill-opacity="0.64">D</tspan>
+<tspan x="644" dy="20" fill-opacity="0.73">C</tspan>
+<tspan x="644" dy="20" fill-opacity="0.82">F</tspan>
+<tspan x="644" dy="20" fill-opacity="0.91">5</tspan>
+<tspan x="644" dy="20" fill="#c0caf5" fill-opacity="1">0</tspan>
+<tspan x="644" dy="20" fill-opacity="0.1">%</tspan>
+<tspan x="644" dy="20" fill-opacity="0.19">$</tspan>
+<tspan x="644" dy="20" fill-opacity="0.28">B</tspan>
+<tspan x="644" dy="20" fill-opacity="0.37">#</tspan>
+<tspan x="644" dy="20" fill-opacity="0.46">D</tspan>
+<tspan x="644" dy="20" fill-opacity="0.55">\</tspan>
+<tspan x="644" dy="20" fill-opacity="0.64">D</tspan>
+<tspan x="644" dy="20" fill-opacity="0.73">C</tspan>
+<tspan x="644" dy="20" fill-opacity="0.82">F</tspan>
+<tspan x="644" dy="20" fill-opacity="0.91">5</tspan>
+<tspan x="644" dy="20" fill="#c0caf5" fill-opacity="1">0</tspan>
+<animateTransform attributeName="transform" type="translate" values="0 0;0 220" dur="5.1s" begin="-4.04s" calcMode="linear" repeatCount="indefinite"/>
+</text>
+<text x="669" y="-182" fill="#bb9af7">
+<tspan x="669" dy="0" fill-opacity="0.1">D</tspan>
+<tspan x="669" dy="20" fill-opacity="0.19">6</tspan>
+<tspan x="669" dy="20" fill-opacity="0.28">2</tspan>
+<tspan x="669" dy="20" fill-opacity="0.37">&gt;</tspan>
+<tspan x="669" dy="20" fill-opacity="0.46">|</tspan>
+<tspan x="669" dy="20" fill-opacity="0.55">&lt;</tspan>
+<tspan x="669" dy="20" fill-opacity="0.64">#</tspan>
+<tspan x="669" dy="20" fill-opacity="0.73">#</tspan>
+<tspan x="669" dy="20" fill-opacity="0.82">5</tspan>
+<tspan x="669" dy="20" fill-opacity="0.91">D</tspan>
+<tspan x="669" dy="20" fill="#c0caf5" fill-opacity="1">7</tspan>
+<tspan x="669" dy="20" fill-opacity="0.1">D</tspan>
+<tspan x="669" dy="20" fill-opacity="0.19">6</tspan>
+<tspan x="669" dy="20" fill-opacity="0.28">2</tspan>
+<tspan x="669" dy="20" fill-opacity="0.37">&gt;</tspan>
+<tspan x="669" dy="20" fill-opacity="0.46">|</tspan>
+<tspan x="669" dy="20" fill-opacity="0.55">&lt;</tspan>
+<tspan x="669" dy="20" fill-opacity="0.64">#</tspan>
+<tspan x="669" dy="20" fill-opacity="0.73">#</tspan>
+<tspan x="669" dy="20" fill-opacity="0.82">5</tspan>
+<tspan x="669" dy="20" fill-opacity="0.91">D</tspan>
+<tspan x="669" dy="20" fill="#c0caf5" fill-opacity="1">7</tspan>
+<animateTransform attributeName="transform" type="translate" values="0 0;0 220" dur="10.0s" begin="-1.9s" calcMode="linear" repeatCount="indefinite"/>
+</text>
+<text x="696" y="-182" fill="#9ece6a">
+<tspan x="696" dy="0" fill-opacity="0.1">D</tspan>
+<tspan x="696" dy="20" fill-opacity="0.19">0</tspan>
+<tspan x="696" dy="20" fill-opacity="0.28">D</tspan>
+<tspan x="696" dy="20" fill-opacity="0.37">&lt;</tspan>
+<tspan x="696" dy="20" fill-opacity="0.46">&gt;</tspan>
+<tspan x="696" dy="20" fill-opacity="0.55">$</tspan>
+<tspan x="696" dy="20" fill-opacity="0.64">9</tspan>
+<tspan x="696" dy="20" fill-opacity="0.73">3</tspan>
+<tspan x="696" dy="20" fill-opacity="0.82">+</tspan>
+<tspan x="696" dy="20" fill-opacity="0.91">|</tspan>
+<tspan x="696" dy="20" fill="#c0caf5" fill-opacity="1">A</tspan>
+<tspan x="696" dy="20" fill-opacity="0.1">D</tspan>
+<tspan x="696" dy="20" fill-opacity="0.19">0</tspan>
+<tspan x="696" dy="20" fill-opacity="0.28">D</tspan>
+<tspan x="696" dy="20" fill-opacity="0.37">&lt;</tspan>
+<tspan x="696" dy="20" fill-opacity="0.46">&gt;</tspan>
+<tspan x="696" dy="20" fill-opacity="0.55">$</tspan>
+<tspan x="696" dy="20" fill-opacity="0.64">9</tspan>
+<tspan x="696" dy="20" fill-opacity="0.73">3</tspan>
+<tspan x="696" dy="20" fill-opacity="0.82">+</tspan>
+<tspan x="696" dy="20" fill-opacity="0.91">|</tspan>
+<tspan x="696" dy="20" fill="#c0caf5" fill-opacity="1">A</tspan>
+<animateTransform attributeName="transform" type="translate" values="0 0;0 220" dur="10.7s" begin="-5.37s" calcMode="linear" repeatCount="indefinite"/>
+</text>
+<text x="720" y="-182" fill="#9ece6a">
+<tspan x="720" dy="0" fill-opacity="0.1">B</tspan>
+<tspan x="720" dy="20" fill-opacity="0.19">%</tspan>
+<tspan x="720" dy="20" fill-opacity="0.28">A</tspan>
+<tspan x="720" dy="20" fill-opacity="0.37">0</tspan>
+<tspan x="720" dy="20" fill-opacity="0.46">$</tspan>
+<tspan x="720" dy="20" fill-opacity="0.55">B</tspan>
+<tspan x="720" dy="20" fill-opacity="0.64">/</tspan>
+<tspan x="720" dy="20" fill-opacity="0.73">/</tspan>
+<tspan x="720" dy="20" fill-opacity="0.82">A</tspan>
+<tspan x="720" dy="20" fill-opacity="0.91">+</tspan>
+<tspan x="720" dy="20" fill="#c0caf5" fill-opacity="1">6</tspan>
+<tspan x="720" dy="20" fill-opacity="0.1">B</tspan>
+<tspan x="720" dy="20" fill-opacity="0.19">%</tspan>
+<tspan x="720" dy="20" fill-opacity="0.28">A</tspan>
+<tspan x="720" dy="20" fill-opacity="0.37">0</tspan>
+<tspan x="720" dy="20" fill-opacity="0.46">$</tspan>
+<tspan x="720" dy="20" fill-opacity="0.55">B</tspan>
+<tspan x="720" dy="20" fill-opacity="0.64">/</tspan>
+<tspan x="720" dy="20" fill-opacity="0.73">/</tspan>
+<tspan x="720" dy="20" fill-opacity="0.82">A</tspan>
+<tspan x="720" dy="20" fill-opacity="0.91">+</tspan>
+<tspan x="720" dy="20" fill="#c0caf5" fill-opacity="1">6</tspan>
+<animateTransform attributeName="transform" type="translate" values="0 0;0 220" dur="11.0s" begin="-9.65s" calcMode="linear" repeatCount="indefinite"/>
+</text>
+<text x="744" y="-182" fill="#7aa2f7">
+<tspan x="744" dy="0" fill-opacity="0.1">C</tspan>
+<tspan x="744" dy="20" fill-opacity="0.19">+</tspan>
+<tspan x="744" dy="20" fill-opacity="0.28">&lt;</tspan>
+<tspan x="744" dy="20" fill-opacity="0.37">C</tspan>
+<tspan x="744" dy="20" fill-opacity="0.46">1</tspan>
+<tspan x="744" dy="20" fill-opacity="0.55">#</tspan>
+<tspan x="744" dy="20" fill-opacity="0.64">C</tspan>
+<tspan x="744" dy="20" fill-opacity="0.73">0</tspan>
+<tspan x="744" dy="20" fill-opacity="0.82">|</tspan>
+<tspan x="744" dy="20" fill-opacity="0.91">1</tspan>
+<tspan x="744" dy="20" fill="#c0caf5" fill-opacity="1">=</tspan>
+<tspan x="744" dy="20" fill-opacity="0.1">C</tspan>
+<tspan x="744" dy="20" fill-opacity="0.19">+</tspan>
+<tspan x="744" dy="20" fill-opacity="0.28">&lt;</tspan>
+<tspan x="744" dy="20" fill-opacity="0.37">C</tspan>
+<tspan x="744" dy="20" fill-opacity="0.46">1</tspan>
+<tspan x="744" dy="20" fill-opacity="0.55">#</tspan>
+<tspan x="744" dy="20" fill-opacity="0.64">C</tspan>
+<tspan x="744" dy="20" fill-opacity="0.73">0</tspan>
+<tspan x="744" dy="20" fill-opacity="0.82">|</tspan>
+<tspan x="744" dy="20" fill-opacity="0.91">1</tspan>
+<tspan x="744" dy="20" fill="#c0caf5" fill-opacity="1">=</tspan>
+<animateTransform attributeName="transform" type="translate" values="0 0;0 220" dur="4.7s" begin="-4.46s" calcMode="linear" repeatCount="indefinite"/>
+</text>
+<text x="774" y="-182" fill="#7dcfff">
+<tspan x="774" dy="0" fill-opacity="0.1">A</tspan>
+<tspan x="774" dy="20" fill-opacity="0.19">\</tspan>
+<tspan x="774" dy="20" fill-opacity="0.28">&lt;</tspan>
+<tspan x="774" dy="20" fill-opacity="0.37">\</tspan>
+<tspan x="774" dy="20" fill-opacity="0.46">E</tspan>
+<tspan x="774" dy="20" fill-opacity="0.55">&gt;</tspan>
+<tspan x="774" dy="20" fill-opacity="0.64">&lt;</tspan>
+<tspan x="774" dy="20" fill-opacity="0.73">6</tspan>
+<tspan x="774" dy="20" fill-opacity="0.82">2</tspan>
+<tspan x="774" dy="20" fill-opacity="0.91">E</tspan>
+<tspan x="774" dy="20" fill="#c0caf5" fill-opacity="1">/</tspan>
+<tspan x="774" dy="20" fill-opacity="0.1">A</tspan>
+<tspan x="774" dy="20" fill-opacity="0.19">\</tspan>
+<tspan x="774" dy="20" fill-opacity="0.28">&lt;</tspan>
+<tspan x="774" dy="20" fill-opacity="0.37">\</tspan>
+<tspan x="774" dy="20" fill-opacity="0.46">E</tspan>
+<tspan x="774" dy="20" fill-opacity="0.55">&gt;</tspan>
+<tspan x="774" dy="20" fill-opacity="0.64">&lt;</tspan>
+<tspan x="774" dy="20" fill-opacity="0.73">6</tspan>
+<tspan x="774" dy="20" fill-opacity="0.82">2</tspan>
+<tspan x="774" dy="20" fill-opacity="0.91">E</tspan>
+<tspan x="774" dy="20" fill="#c0caf5" fill-opacity="1">/</tspan>
+<animateTransform attributeName="transform" type="translate" values="0 0;0 220" dur="9.2s" begin="-0.76s" calcMode="linear" repeatCount="indefinite"/>
+</text>
+<text x="798" y="-182" fill="#bb9af7">
+<tspan x="798" dy="0" fill-opacity="0.1">3</tspan>
+<tspan x="798" dy="20" fill-opacity="0.19">7</tspan>
+<tspan x="798" dy="20" fill-opacity="0.28">#</tspan>
+<tspan x="798" dy="20" fill-opacity="0.37">\</tspan>
+<tspan x="798" dy="20" fill-opacity="0.46">D</tspan>
+<tspan x="798" dy="20" fill-opacity="0.55">5</tspan>
+<tspan x="798" dy="20" fill-opacity="0.64">4</tspan>
+<tspan x="798" dy="20" fill-opacity="0.73">6</tspan>
+<tspan x="798" dy="20" fill-opacity="0.82">=</tspan>
+<tspan x="798" dy="20" fill-opacity="0.91">%</tspan>
+<tspan x="798" dy="20" fill="#c0caf5" fill-opacity="1">8</tspan>
+<tspan x="798" dy="20" fill-opacity="0.1">3</tspan>
+<tspan x="798" dy="20" fill-opacity="0.19">7</tspan>
+<tspan x="798" dy="20" fill-opacity="0.28">#</tspan>
+<tspan x="798" dy="20" fill-opacity="0.37">\</tspan>
+<tspan x="798" dy="20" fill-opacity="0.46">D</tspan>
+<tspan x="798" dy="20" fill-opacity="0.55">5</tspan>
+<tspan x="798" dy="20" fill-opacity="0.64">4</tspan>
+<tspan x="798" dy="20" fill-opacity="0.73">6</tspan>
+<tspan x="798" dy="20" fill-opacity="0.82">=</tspan>
+<tspan x="798" dy="20" fill-opacity="0.91">%</tspan>
+<tspan x="798" dy="20" fill="#c0caf5" fill-opacity="1">8</tspan>
+<animateTransform attributeName="transform" type="translate" values="0 0;0 220" dur="6.9s" begin="-1.0s" calcMode="linear" repeatCount="indefinite"/>
+</text>
+<text x="825" y="-182" fill="#7dcfff">
+<tspan x="825" dy="0" fill-opacity="0.1">6</tspan>
+<tspan x="825" dy="20" fill-opacity="0.19">5</tspan>
+<tspan x="825" dy="20" fill-opacity="0.28">%</tspan>
+<tspan x="825" dy="20" fill-opacity="0.37">\</tspan>
+<tspan x="825" dy="20" fill-opacity="0.46">1</tspan>
+<tspan x="825" dy="20" fill-opacity="0.55">F</tspan>
+<tspan x="825" dy="20" fill-opacity="0.64">8</tspan>
+<tspan x="825" dy="20" fill-opacity="0.73">#</tspan>
+<tspan x="825" dy="20" fill-opacity="0.82">&gt;</tspan>
+<tspan x="825" dy="20" fill-opacity="0.91">#</tspan>
+<tspan x="825" dy="20" fill="#c0caf5" fill-opacity="1">2</tspan>
+<tspan x="825" dy="20" fill-opacity="0.1">6</tspan>
+<tspan x="825" dy="20" fill-opacity="0.19">5</tspan>
+<tspan x="825" dy="20" fill-opacity="0.28">%</tspan>
+<tspan x="825" dy="20" fill-opacity="0.37">\</tspan>
+<tspan x="825" dy="20" fill-opacity="0.46">1</tspan>
+<tspan x="825" dy="20" fill-opacity="0.55">F</tspan>
+<tspan x="825" dy="20" fill-opacity="0.64">8</tspan>
+<tspan x="825" dy="20" fill-opacity="0.73">#</tspan>
+<tspan x="825" dy="20" fill-opacity="0.82">&gt;</tspan>
+<tspan x="825" dy="20" fill-opacity="0.91">#</tspan>
+<tspan x="825" dy="20" fill="#c0caf5" fill-opacity="1">2</tspan>
+<animateTransform attributeName="transform" type="translate" values="0 0;0 220" dur="6.7s" begin="-2.5s" calcMode="linear" repeatCount="indefinite"/>
+</text>
+<text x="850" y="-182" fill="#7dcfff">
+<tspan x="850" dy="0" fill-opacity="0.1">$</tspan>
+<tspan x="850" dy="20" fill-opacity="0.19">6</tspan>
+<tspan x="850" dy="20" fill-opacity="0.28">1</tspan>
+<tspan x="850" dy="20" fill-opacity="0.37">1</tspan>
+<tspan x="850" dy="20" fill-opacity="0.46">4</tspan>
+<tspan x="850" dy="20" fill-opacity="0.55">+</tspan>
+<tspan x="850" dy="20" fill-opacity="0.64">+</tspan>
+<tspan x="850" dy="20" fill-opacity="0.73">5</tspan>
+<tspan x="850" dy="20" fill-opacity="0.82">4</tspan>
+<tspan x="850" dy="20" fill-opacity="0.91">1</tspan>
+<tspan x="850" dy="20" fill="#c0caf5" fill-opacity="1">=</tspan>
+<tspan x="850" dy="20" fill-opacity="0.1">$</tspan>
+<tspan x="850" dy="20" fill-opacity="0.19">6</tspan>
+<tspan x="850" dy="20" fill-opacity="0.28">1</tspan>
+<tspan x="850" dy="20" fill-opacity="0.37">1</tspan>
+<tspan x="850" dy="20" fill-opacity="0.46">4</tspan>
+<tspan x="850" dy="20" fill-opacity="0.55">+</tspan>
+<tspan x="850" dy="20" fill-opacity="0.64">+</tspan>
+<tspan x="850" dy="20" fill-opacity="0.73">5</tspan>
+<tspan x="850" dy="20" fill-opacity="0.82">4</tspan>
+<tspan x="850" dy="20" fill-opacity="0.91">1</tspan>
+<tspan x="850" dy="20" fill="#c0caf5" fill-opacity="1">=</tspan>
+<animateTransform attributeName="transform" type="translate" values="0 0;0 220" dur="6.2s" begin="-4.53s" calcMode="linear" repeatCount="indefinite"/>
+</text>
+<text x="874" y="-182" fill="#9ece6a">
+<tspan x="874" dy="0" fill-opacity="0.1">9</tspan>
+<tspan x="874" dy="20" fill-opacity="0.19">6</tspan>
+<tspan x="874" dy="20" fill-opacity="0.28">=</tspan>
+<tspan x="874" dy="20" fill-opacity="0.37">2</tspan>
+<tspan x="874" dy="20" fill-opacity="0.46">*</tspan>
+<tspan x="874" dy="20" fill-opacity="0.55">&lt;</tspan>
+<tspan x="874" dy="20" fill-opacity="0.64">D</tspan>
+<tspan x="874" dy="20" fill-opacity="0.73">\</tspan>
+<tspan x="874" dy="20" fill-opacity="0.82">&lt;</tspan>
+<tspan x="874" dy="20" fill-opacity="0.91">/</tspan>
+<tspan x="874" dy="20" fill="#c0caf5" fill-opacity="1">C</tspan>
+<tspan x="874" dy="20" fill-opacity="0.1">9</tspan>
+<tspan x="874" dy="20" fill-opacity="0.19">6</tspan>
+<tspan x="874" dy="20" fill-opacity="0.28">=</tspan>
+<tspan x="874" dy="20" fill-opacity="0.37">2</tspan>
+<tspan x="874" dy="20" fill-opacity="0.46">*</tspan>
+<tspan x="874" dy="20" fill-opacity="0.55">&lt;</tspan>
+<tspan x="874" dy="20" fill-opacity="0.64">D</tspan>
+<tspan x="874" dy="20" fill-opacity="0.73">\</tspan>
+<tspan x="874" dy="20" fill-opacity="0.82">&lt;</tspan>
+<tspan x="874" dy="20" fill-opacity="0.91">/</tspan>
+<tspan x="874" dy="20" fill="#c0caf5" fill-opacity="1">C</tspan>
+<animateTransform attributeName="transform" type="translate" values="0 0;0 220" dur="6.0s" begin="-2.11s" calcMode="linear" repeatCount="indefinite"/>
+</text>
+<text x="903" y="-182" fill="#9ece6a">
+<tspan x="903" dy="0" fill-opacity="0.1">%</tspan>
+<tspan x="903" dy="20" fill-opacity="0.19">B</tspan>
+<tspan x="903" dy="20" fill-opacity="0.28">+</tspan>
+<tspan x="903" dy="20" fill-opacity="0.37">6</tspan>
+<tspan x="903" dy="20" fill-opacity="0.46">+</tspan>
+<tspan x="903" dy="20" fill-opacity="0.55">&lt;</tspan>
+<tspan x="903" dy="20" fill-opacity="0.64">=</tspan>
+<tspan x="903" dy="20" fill-opacity="0.73">1</tspan>
+<tspan x="903" dy="20" fill-opacity="0.82">*</tspan>
+<tspan x="903" dy="20" fill-opacity="0.91">7</tspan>
+<tspan x="903" dy="20" fill="#c0caf5" fill-opacity="1">3</tspan>
+<tspan x="903" dy="20" fill-opacity="0.1">%</tspan>
+<tspan x="903" dy="20" fill-opacity="0.19">B</tspan>
+<tspan x="903" dy="20" fill-opacity="0.28">+</tspan>
+<tspan x="903" dy="20" fill-opacity="0.37">6</tspan>
+<tspan x="903" dy="20" fill-opacity="0.46">+</tspan>
+<tspan x="903" dy="20" fill-opacity="0.55">&lt;</tspan>
+<tspan x="903" dy="20" fill-opacity="0.64">=</tspan>
+<tspan x="903" dy="20" fill-opacity="0.73">1</tspan>
+<tspan x="903" dy="20" fill-opacity="0.82">*</tspan>
+<tspan x="903" dy="20" fill-opacity="0.91">7</tspan>
+<tspan x="903" dy="20" fill="#c0caf5" fill-opacity="1">3</tspan>
+<animateTransform attributeName="transform" type="translate" values="0 0;0 220" dur="5.8s" begin="-1.07s" calcMode="linear" repeatCount="indefinite"/>
+</text>
+<text x="928" y="-182" fill="#7aa2f7">
+<tspan x="928" dy="0" fill-opacity="0.1">9</tspan>
+<tspan x="928" dy="20" fill-opacity="0.19">1</tspan>
+<tspan x="928" dy="20" fill-opacity="0.28">8</tspan>
+<tspan x="928" dy="20" fill-opacity="0.37">D</tspan>
+<tspan x="928" dy="20" fill-opacity="0.46">A</tspan>
+<tspan x="928" dy="20" fill-opacity="0.55">A</tspan>
+<tspan x="928" dy="20" fill-opacity="0.64">+</tspan>
+<tspan x="928" dy="20" fill-opacity="0.73">2</tspan>
+<tspan x="928" dy="20" fill-opacity="0.82">|</tspan>
+<tspan x="928" dy="20" fill-opacity="0.91">1</tspan>
+<tspan x="928" dy="20" fill="#c0caf5" fill-opacity="1">&gt;</tspan>
+<tspan x="928" dy="20" fill-opacity="0.1">9</tspan>
+<tspan x="928" dy="20" fill-opacity="0.19">1</tspan>
+<tspan x="928" dy="20" fill-opacity="0.28">8</tspan>
+<tspan x="928" dy="20" fill-opacity="0.37">D</tspan>
+<tspan x="928" dy="20" fill-opacity="0.46">A</tspan>
+<tspan x="928" dy="20" fill-opacity="0.55">A</tspan>
+<tspan x="928" dy="20" fill-opacity="0.64">+</tspan>
+<tspan x="928" dy="20" fill-opacity="0.73">2</tspan>
+<tspan x="928" dy="20" fill-opacity="0.82">|</tspan>
+<tspan x="928" dy="20" fill-opacity="0.91">1</tspan>
+<tspan x="928" dy="20" fill="#c0caf5" fill-opacity="1">&gt;</tspan>
+<animateTransform attributeName="transform" type="translate" values="0 0;0 220" dur="6.6s" begin="-2.14s" calcMode="linear" repeatCount="indefinite"/>
+</text>
+<text x="956" y="-182" fill="#7dcfff">
+<tspan x="956" dy="0" fill-opacity="0.1">A</tspan>
+<tspan x="956" dy="20" fill-opacity="0.19">1</tspan>
+<tspan x="956" dy="20" fill-opacity="0.28">%</tspan>
+<tspan x="956" dy="20" fill-opacity="0.37">1</tspan>
+<tspan x="956" dy="20" fill-opacity="0.46">4</tspan>
+<tspan x="956" dy="20" fill-opacity="0.55">D</tspan>
+<tspan x="956" dy="20" fill-opacity="0.64">F</tspan>
+<tspan x="956" dy="20" fill-opacity="0.73">1</tspan>
+<tspan x="956" dy="20" fill-opacity="0.82">F</tspan>
+<tspan x="956" dy="20" fill-opacity="0.91">|</tspan>
+<tspan x="956" dy="20" fill="#c0caf5" fill-opacity="1">#</tspan>
+<tspan x="956" dy="20" fill-opacity="0.1">A</tspan>
+<tspan x="956" dy="20" fill-opacity="0.19">1</tspan>
+<tspan x="956" dy="20" fill-opacity="0.28">%</tspan>
+<tspan x="956" dy="20" fill-opacity="0.37">1</tspan>
+<tspan x="956" dy="20" fill-opacity="0.46">4</tspan>
+<tspan x="956" dy="20" fill-opacity="0.55">D</tspan>
+<tspan x="956" dy="20" fill-opacity="0.64">F</tspan>
+<tspan x="956" dy="20" fill-opacity="0.73">1</tspan>
+<tspan x="956" dy="20" fill-opacity="0.82">F</tspan>
+<tspan x="956" dy="20" fill-opacity="0.91">|</tspan>
+<tspan x="956" dy="20" fill="#c0caf5" fill-opacity="1">#</tspan>
+<animateTransform attributeName="transform" type="translate" values="0 0;0 220" dur="8.0s" begin="-0.28s" calcMode="linear" repeatCount="indefinite"/>
+</text>
+<text x="982" y="-182" fill="#7dcfff">
+<tspan x="982" dy="0" fill-opacity="0.1">&lt;</tspan>
+<tspan x="982" dy="20" fill-opacity="0.19">=</tspan>
+<tspan x="982" dy="20" fill-opacity="0.28">0</tspan>
+<tspan x="982" dy="20" fill-opacity="0.37">E</tspan>
+<tspan x="982" dy="20" fill-opacity="0.46">2</tspan>
+<tspan x="982" dy="20" fill-opacity="0.55">/</tspan>
+<tspan x="982" dy="20" fill-opacity="0.64">6</tspan>
+<tspan x="982" dy="20" fill-opacity="0.73">1</tspan>
+<tspan x="982" dy="20" fill-opacity="0.82">+</tspan>
+<tspan x="982" dy="20" fill-opacity="0.91">&gt;</tspan>
+<tspan x="982" dy="20" fill="#c0caf5" fill-opacity="1">C</tspan>
+<tspan x="982" dy="20" fill-opacity="0.1">&lt;</tspan>
+<tspan x="982" dy="20" fill-opacity="0.19">=</tspan>
+<tspan x="982" dy="20" fill-opacity="0.28">0</tspan>
+<tspan x="982" dy="20" fill-opacity="0.37">E</tspan>
+<tspan x="982" dy="20" fill-opacity="0.46">2</tspan>
+<tspan x="982" dy="20" fill-opacity="0.55">/</tspan>
+<tspan x="982" dy="20" fill-opacity="0.64">6</tspan>
+<tspan x="982" dy="20" fill-opacity="0.73">1</tspan>
+<tspan x="982" dy="20" fill-opacity="0.82">+</tspan>
+<tspan x="982" dy="20" fill-opacity="0.91">&gt;</tspan>
+<tspan x="982" dy="20" fill="#c0caf5" fill-opacity="1">C</tspan>
+<animateTransform attributeName="transform" type="translate" values="0 0;0 220" dur="5.6s" begin="-2.1s" calcMode="linear" repeatCount="indefinite"/>
+</text>
+<text x="1006" y="-182" fill="#9ece6a">
+<tspan x="1006" dy="0" fill-opacity="0.1">\</tspan>
+<tspan x="1006" dy="20" fill-opacity="0.19">\</tspan>
+<tspan x="1006" dy="20" fill-opacity="0.28">D</tspan>
+<tspan x="1006" dy="20" fill-opacity="0.37">/</tspan>
+<tspan x="1006" dy="20" fill-opacity="0.46">E</tspan>
+<tspan x="1006" dy="20" fill-opacity="0.55">+</tspan>
+<tspan x="1006" dy="20" fill-opacity="0.64">/</tspan>
+<tspan x="1006" dy="20" fill-opacity="0.73">4</tspan>
+<tspan x="1006" dy="20" fill-opacity="0.82">C</tspan>
+<tspan x="1006" dy="20" fill-opacity="0.91">C</tspan>
+<tspan x="1006" dy="20" fill="#c0caf5" fill-opacity="1">*</tspan>
+<tspan x="1006" dy="20" fill-opacity="0.1">\</tspan>
+<tspan x="1006" dy="20" fill-opacity="0.19">\</tspan>
+<tspan x="1006" dy="20" fill-opacity="0.28">D</tspan>
+<tspan x="1006" dy="20" fill-opacity="0.37">/</tspan>
+<tspan x="1006" dy="20" fill-opacity="0.46">E</tspan>
+<tspan x="1006" dy="20" fill-opacity="0.55">+</tspan>
+<tspan x="1006" dy="20" fill-opacity="0.64">/</tspan>
+<tspan x="1006" dy="20" fill-opacity="0.73">4</tspan>
+<tspan x="1006" dy="20" fill-opacity="0.82">C</tspan>
+<tspan x="1006" dy="20" fill-opacity="0.91">C</tspan>
+<tspan x="1006" dy="20" fill="#c0caf5" fill-opacity="1">*</tspan>
+<animateTransform attributeName="transform" type="translate" values="0 0;0 220" dur="9.7s" begin="-4.75s" calcMode="linear" repeatCount="indefinite"/>
+</text>
+<text x="1033" y="-182" fill="#9ece6a">
+<tspan x="1033" dy="0" fill-opacity="0.1">8</tspan>
+<tspan x="1033" dy="20" fill-opacity="0.19">|</tspan>
+<tspan x="1033" dy="20" fill-opacity="0.28">/</tspan>
+<tspan x="1033" dy="20" fill-opacity="0.37">8</tspan>
+<tspan x="1033" dy="20" fill-opacity="0.46">+</tspan>
+<tspan x="1033" dy="20" fill-opacity="0.55">&lt;</tspan>
+<tspan x="1033" dy="20" fill-opacity="0.64">8</tspan>
+<tspan x="1033" dy="20" fill-opacity="0.73">3</tspan>
+<tspan x="1033" dy="20" fill-opacity="0.82">3</tspan>
+<tspan x="1033" dy="20" fill-opacity="0.91">\</tspan>
+<tspan x="1033" dy="20" fill="#c0caf5" fill-opacity="1">5</tspan>
+<tspan x="1033" dy="20" fill-opacity="0.1">8</tspan>
+<tspan x="1033" dy="20" fill-opacity="0.19">|</tspan>
+<tspan x="1033" dy="20" fill-opacity="0.28">/</tspan>
+<tspan x="1033" dy="20" fill-opacity="0.37">8</tspan>
+<tspan x="1033" dy="20" fill-opacity="0.46">+</tspan>
+<tspan x="1033" dy="20" fill-opacity="0.55">&lt;</tspan>
+<tspan x="1033" dy="20" fill-opacity="0.64">8</tspan>
+<tspan x="1033" dy="20" fill-opacity="0.73">3</tspan>
+<tspan x="1033" dy="20" fill-opacity="0.82">3</tspan>
+<tspan x="1033" dy="20" fill-opacity="0.91">\</tspan>
+<tspan x="1033" dy="20" fill="#c0caf5" fill-opacity="1">5</tspan>
+<animateTransform attributeName="transform" type="translate" values="0 0;0 220" dur="5.0s" begin="-1.65s" calcMode="linear" repeatCount="indefinite"/>
+</text>
+<text x="1057" y="-182" fill="#7dcfff">
+<tspan x="1057" dy="0" fill-opacity="0.1">3</tspan>
+<tspan x="1057" dy="20" fill-opacity="0.19">|</tspan>
+<tspan x="1057" dy="20" fill-opacity="0.28">4</tspan>
+<tspan x="1057" dy="20" fill-opacity="0.37">&lt;</tspan>
+<tspan x="1057" dy="20" fill-opacity="0.46">C</tspan>
+<tspan x="1057" dy="20" fill-opacity="0.55">+</tspan>
+<tspan x="1057" dy="20" fill-opacity="0.64">B</tspan>
+<tspan x="1057" dy="20" fill-opacity="0.73">=</tspan>
+<tspan x="1057" dy="20" fill-opacity="0.82">D</tspan>
+<tspan x="1057" dy="20" fill-opacity="0.91">&gt;</tspan>
+<tspan x="1057" dy="20" fill="#c0caf5" fill-opacity="1">0</tspan>
+<tspan x="1057" dy="20" fill-opacity="0.1">3</tspan>
+<tspan x="1057" dy="20" fill-opacity="0.19">|</tspan>
+<tspan x="1057" dy="20" fill-opacity="0.28">4</tspan>
+<tspan x="1057" dy="20" fill-opacity="0.37">&lt;</tspan>
+<tspan x="1057" dy="20" fill-opacity="0.46">C</tspan>
+<tspan x="1057" dy="20" fill-opacity="0.55">+</tspan>
+<tspan x="1057" dy="20" fill-opacity="0.64">B</tspan>
+<tspan x="1057" dy="20" fill-opacity="0.73">=</tspan>
+<tspan x="1057" dy="20" fill-opacity="0.82">D</tspan>
+<tspan x="1057" dy="20" fill-opacity="0.91">&gt;</tspan>
+<tspan x="1057" dy="20" fill="#c0caf5" fill-opacity="1">0</tspan>
+<animateTransform attributeName="transform" type="translate" values="0 0;0 220" dur="8.9s" begin="-1.15s" calcMode="linear" repeatCount="indefinite"/>
+</text>
+<text x="1084" y="-182" fill="#9ece6a">
+<tspan x="1084" dy="0" fill-opacity="0.1">&lt;</tspan>
+<tspan x="1084" dy="20" fill-opacity="0.19">E</tspan>
+<tspan x="1084" dy="20" fill-opacity="0.28">$</tspan>
+<tspan x="1084" dy="20" fill-opacity="0.37">0</tspan>
+<tspan x="1084" dy="20" fill-opacity="0.46">3</tspan>
+<tspan x="1084" dy="20" fill-opacity="0.55">1</tspan>
+<tspan x="1084" dy="20" fill-opacity="0.64">/</tspan>
+<tspan x="1084" dy="20" fill-opacity="0.73">7</tspan>
+<tspan x="1084" dy="20" fill-opacity="0.82">$</tspan>
+<tspan x="1084" dy="20" fill-opacity="0.91">4</tspan>
+<tspan x="1084" dy="20" fill="#c0caf5" fill-opacity="1">7</tspan>
+<tspan x="1084" dy="20" fill-opacity="0.1">&lt;</tspan>
+<tspan x="1084" dy="20" fill-opacity="0.19">E</tspan>
+<tspan x="1084" dy="20" fill-opacity="0.28">$</tspan>
+<tspan x="1084" dy="20" fill-opacity="0.37">0</tspan>
+<tspan x="1084" dy="20" fill-opacity="0.46">3</tspan>
+<tspan x="1084" dy="20" fill-opacity="0.55">1</tspan>
+<tspan x="1084" dy="20" fill-opacity="0.64">/</tspan>
+<tspan x="1084" dy="20" fill-opacity="0.73">7</tspan>
+<tspan x="1084" dy="20" fill-opacity="0.82">$</tspan>
+<tspan x="1084" dy="20" fill-opacity="0.91">4</tspan>
+<tspan x="1084" dy="20" fill="#c0caf5" fill-opacity="1">7</tspan>
+<animateTransform attributeName="transform" type="translate" values="0 0;0 220" dur="7.0s" begin="-2.72s" calcMode="linear" repeatCount="indefinite"/>
+</text>
+<text x="1108" y="-182" fill="#bb9af7">
+<tspan x="1108" dy="0" fill-opacity="0.1">1</tspan>
+<tspan x="1108" dy="20" fill-opacity="0.19">\</tspan>
+<tspan x="1108" dy="20" fill-opacity="0.28">1</tspan>
+<tspan x="1108" dy="20" fill-opacity="0.37">/</tspan>
+<tspan x="1108" dy="20" fill-opacity="0.46">&lt;</tspan>
+<tspan x="1108" dy="20" fill-opacity="0.55">\</tspan>
+<tspan x="1108" dy="20" fill-opacity="0.64">0</tspan>
+<tspan x="1108" dy="20" fill-opacity="0.73">/</tspan>
+<tspan x="1108" dy="20" fill-opacity="0.82">+</tspan>
+<tspan x="1108" dy="20" fill-opacity="0.91">0</tspan>
+<tspan x="1108" dy="20" fill="#c0caf5" fill-opacity="1">A</tspan>
+<tspan x="1108" dy="20" fill-opacity="0.1">1</tspan>
+<tspan x="1108" dy="20" fill-opacity="0.19">\</tspan>
+<tspan x="1108" dy="20" fill-opacity="0.28">1</tspan>
+<tspan x="1108" dy="20" fill-opacity="0.37">/</tspan>
+<tspan x="1108" dy="20" fill-opacity="0.46">&lt;</tspan>
+<tspan x="1108" dy="20" fill-opacity="0.55">\</tspan>
+<tspan x="1108" dy="20" fill-opacity="0.64">0</tspan>
+<tspan x="1108" dy="20" fill-opacity="0.73">/</tspan>
+<tspan x="1108" dy="20" fill-opacity="0.82">+</tspan>
+<tspan x="1108" dy="20" fill-opacity="0.91">0</tspan>
+<tspan x="1108" dy="20" fill="#c0caf5" fill-opacity="1">A</tspan>
+<animateTransform attributeName="transform" type="translate" values="0 0;0 220" dur="4.7s" begin="-4.68s" calcMode="linear" repeatCount="indefinite"/>
+</text>
+<text x="1135" y="-182" fill="#7aa2f7">
+<tspan x="1135" dy="0" fill-opacity="0.1">\</tspan>
+<tspan x="1135" dy="20" fill-opacity="0.19">+</tspan>
+<tspan x="1135" dy="20" fill-opacity="0.28">9</tspan>
+<tspan x="1135" dy="20" fill-opacity="0.37">A</tspan>
+<tspan x="1135" dy="20" fill-opacity="0.46">9</tspan>
+<tspan x="1135" dy="20" fill-opacity="0.55">\</tspan>
+<tspan x="1135" dy="20" fill-opacity="0.64">C</tspan>
+<tspan x="1135" dy="20" fill-opacity="0.73">#</tspan>
+<tspan x="1135" dy="20" fill-opacity="0.82">$</tspan>
+<tspan x="1135" dy="20" fill-opacity="0.91">A</tspan>
+<tspan x="1135" dy="20" fill="#c0caf5" fill-opacity="1">+</tspan>
+<tspan x="1135" dy="20" fill-opacity="0.1">\</tspan>
+<tspan x="1135" dy="20" fill-opacity="0.19">+</tspan>
+<tspan x="1135" dy="20" fill-opacity="0.28">9</tspan>
+<tspan x="1135" dy="20" fill-opacity="0.37">A</tspan>
+<tspan x="1135" dy="20" fill-opacity="0.46">9</tspan>
+<tspan x="1135" dy="20" fill-opacity="0.55">\</tspan>
+<tspan x="1135" dy="20" fill-opacity="0.64">C</tspan>
+<tspan x="1135" dy="20" fill-opacity="0.73">#</tspan>
+<tspan x="1135" dy="20" fill-opacity="0.82">$</tspan>
+<tspan x="1135" dy="20" fill-opacity="0.91">A</tspan>
+<tspan x="1135" dy="20" fill="#c0caf5" fill-opacity="1">+</tspan>
+<animateTransform attributeName="transform" type="translate" values="0 0;0 220" dur="9.8s" begin="-2.42s" calcMode="linear" repeatCount="indefinite"/>
+</text>
+<text x="1161" y="-182" fill="#9ece6a">
+<tspan x="1161" dy="0" fill-opacity="0.1">C</tspan>
+<tspan x="1161" dy="20" fill-opacity="0.19">3</tspan>
+<tspan x="1161" dy="20" fill-opacity="0.28">D</tspan>
+<tspan x="1161" dy="20" fill-opacity="0.37">D</tspan>
+<tspan x="1161" dy="20" fill-opacity="0.46">C</tspan>
+<tspan x="1161" dy="20" fill-opacity="0.55">7</tspan>
+<tspan x="1161" dy="20" fill-opacity="0.64">E</tspan>
+<tspan x="1161" dy="20" fill-opacity="0.73">$</tspan>
+<tspan x="1161" dy="20" fill-opacity="0.82">|</tspan>
+<tspan x="1161" dy="20" fill-opacity="0.91">2</tspan>
+<tspan x="1161" dy="20" fill="#c0caf5" fill-opacity="1">7</tspan>
+<tspan x="1161" dy="20" fill-opacity="0.1">C</tspan>
+<tspan x="1161" dy="20" fill-opacity="0.19">3</tspan>
+<tspan x="1161" dy="20" fill-opacity="0.28">D</tspan>
+<tspan x="1161" dy="20" fill-opacity="0.37">D</tspan>
+<tspan x="1161" dy="20" fill-opacity="0.46">C</tspan>
+<tspan x="1161" dy="20" fill-opacity="0.55">7</tspan>
+<tspan x="1161" dy="20" fill-opacity="0.64">E</tspan>
+<tspan x="1161" dy="20" fill-opacity="0.73">$</tspan>
+<tspan x="1161" dy="20" fill-opacity="0.82">|</tspan>
+<tspan x="1161" dy="20" fill-opacity="0.91">2</tspan>
+<tspan x="1161" dy="20" fill="#c0caf5" fill-opacity="1">7</tspan>
+<animateTransform attributeName="transform" type="translate" values="0 0;0 220" dur="8.0s" begin="-7.87s" calcMode="linear" repeatCount="indefinite"/>
+</text>
+</g>
+</svg>
