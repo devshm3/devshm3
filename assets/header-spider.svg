@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1200 300" width="1200" height="300" font-family="'Courier New', Courier, monospace">
+  <defs>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#f7768e"/>
+      <stop offset="0.5" stop-color="#7aa2f7"/>
+      <stop offset="1" stop-color="#bb9af7"/>
+    </linearGradient>
+    <radialGradient id="vig" cx="0.5" cy="0.45" r="0.75">
+      <stop offset="0" stop-color="#1f2335"/>
+      <stop offset="1" stop-color="#1a1b26"/>
+    </radialGradient>
+    <pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse">
+      <path d="M26 0H0V26" fill="none" stroke="#7aa2f7" stroke-width="0.5" opacity="0.06"/>
+    </pattern>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="2.2" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <g id="spider" fill="currentColor" stroke="currentColor" stroke-width="3.5" stroke-linecap="round">
+      <!-- legs -->
+      <path d="M -12,-24 Q -42,-44 -70,-50" fill="none"/>
+      <path d="M -13,-18 Q -48,-26 -78,-22" fill="none"/>
+      <path d="M -13,-12 Q -48,-2 -78,6"   fill="none"/>
+      <path d="M -12,-6  Q -40,18 -64,34"  fill="none"/>
+      <path d="M 12,-24 Q 42,-44 70,-50" fill="none"/>
+      <path d="M 13,-18 Q 48,-26 78,-22" fill="none"/>
+      <path d="M 13,-12 Q 48,-2 78,6"    fill="none"/>
+      <path d="M 12,-6  Q 40,18 64,34"   fill="none"/>
+      <!-- body -->
+      <ellipse cx="0" cy="-16" rx="14" ry="17" stroke="none"/>
+      <ellipse cx="0" cy="20" rx="22" ry="28" stroke="none"/>
+    </g>
+  </defs>
+
+  <!-- frame -->
+  <rect x="2" y="2" width="1196" height="296" rx="12" fill="url(#vig)" stroke="url(#edge)" stroke-width="2"/>
+  <rect x="2" y="2" width="1196" height="296" rx="12" fill="url(#grid)"/>
+
+  <!-- title bar -->
+  <path d="M2 14a12 12 0 0 1 12-12h1172a12 12 0 0 1 12 12v24H2z" fill="#16161e"/>
+  <circle cx="28" cy="20" r="6" fill="#f7768e"/>
+  <circle cx="48" cy="20" r="6" fill="#e0af68"/>
+  <circle cx="68" cy="20" r="6" fill="#9ece6a"/>
+  <text x="600" y="25" text-anchor="middle" font-size="13" fill="#565f89">root@devshm3: ~/redteam — secure shell</text>
+
+  <!-- web thread -->
+  <line x1="1052" y1="38" x2="1052" y2="128" stroke="#565f89" stroke-width="1" opacity="0.55"/>
+
+  <!-- glitch spider -->
+  <g transform="translate(1052 170)" filter="url(#glow)">
+    <g>
+      <use href="#spider" xlink:href="#spider" color="#7dcfff" opacity="0.5">
+        <animate attributeName="x" values="0;-3;2;0;1;0" dur="2.8s" repeatCount="indefinite"/>
+      </use>
+      <use href="#spider" xlink:href="#spider" color="#f7768e" opacity="0.5">
+        <animate attributeName="x" values="0;3;-2;0;-1;0" dur="2.8s" repeatCount="indefinite"/>
+      </use>
+      <use href="#spider" xlink:href="#spider" color="#c0caf5"/>
+      <!-- red hourglass marking -->
+      <path d="M -7,8 L 7,8 L 0,20 Z M -7,32 L 7,32 L 0,20 Z" fill="#f7768e"/>
+      <!-- fangs -->
+      <path d="M -5,-2 L -2,8 L -7,4 Z M 5,-2 L 2,8 L 7,4 Z" fill="#1a1b26"/>
+      <!-- glowing eyes -->
+      <circle cx="-5" cy="-26" r="3" fill="#f7768e">
+        <animate attributeName="opacity" values="1;0.3;1;0.6;1" dur="1.8s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="5" cy="-26" r="3" fill="#f7768e">
+        <animate attributeName="opacity" values="0.6;1;0.3;1;0.6" dur="1.8s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="-11" cy="-22" r="1.4" fill="#f7768e"/>
+      <circle cx="11" cy="-22" r="1.4" fill="#f7768e"/>
+      <circle cx="-2" cy="-30" r="1.2" fill="#f7768e"/>
+      <circle cx="2" cy="-30" r="1.2" fill="#f7768e"/>
+      <!-- subtle creeping sway -->
+      <animateTransform attributeName="transform" type="rotate" values="0 0 0;1.6 0 0;-1.6 0 0;0 0 0" dur="4.5s" repeatCount="indefinite"/>
+    </g>
+  </g>
+
+  <!-- glitch title -->
+  <g font-size="62" font-weight="bold">
+    <text x="58" y="150" fill="#7dcfff" opacity="0.55">devshm3
+      <animate attributeName="dx" values="0;-3;2;0" dur="2.6s" repeatCount="indefinite"/>
+    </text>
+    <text x="58" y="150" fill="#f7768e" opacity="0.55">devshm3
+      <animate attributeName="dx" values="0;3;-2;0" dur="2.6s" repeatCount="indefinite"/>
+    </text>
+    <text x="58" y="150" fill="#c0caf5">devshm3</text>
+  </g>
+  <text x="60" y="178" font-size="15" fill="#7aa2f7" letter-spacing="3">CYBERSECURITY · RED TEAM · PENTESTING · OSINT</text>
+
+  <!-- breach log -->
+  <g font-size="15">
+    <text x="60" y="218"><tspan fill="#9ece6a">root@devshm3</tspan><tspan fill="#565f89">:</tspan><tspan fill="#7aa2f7">~</tspan><tspan fill="#565f89"># </tspan><tspan fill="#c0caf5">./spider --crawl --scope authorized</tspan></text>
+    <text x="60" y="242"><tspan fill="#9ece6a">[+]</tspan><tspan fill="#a9b1d6"> targets mapped   </tspan><tspan fill="#9ece6a">[+]</tspan><tspan fill="#a9b1d6"> foothold gained   </tspan><tspan fill="#e0af68">[*]</tspan><tspan fill="#a9b1d6"> privesc</tspan></text>
+    <text x="60" y="270" font-size="16"><tspan fill="#f7768e" font-weight="bold">[█] ACCESS GRANTED</tspan><tspan fill="#565f89"> — shell is</tspan><tspan fill="#c0caf5" font-weight="bold"> live</tspan></text>
+    <rect x="240" y="259" width="11" height="15" fill="#f7768e">
+      <animate attributeName="opacity" values="1;1;0;0" dur="1.1s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <!-- scan line -->
+  <rect x="2" width="1196" height="2" fill="#f7768e" opacity="0.35">
+    <animate attributeName="y" values="40;296;40" keyTimes="0;0.5;1" dur="5s" repeatCount="indefinite"/>
+  </rect>
+</svg>
