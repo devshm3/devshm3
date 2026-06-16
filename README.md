@@ -3,9 +3,9 @@
 <!-- ║              Theme: Tokyonight  (#1a1b26 / #7aa2f7)           ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
-<!-- ── BANNER ───────────────────────────────────────────────────── -->
+<!-- ── BANNER (self-hosted, original SVG — assets/header.svg) ────── -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:7aa2f7,100:bb9af7&height=200&section=header&text=devshm3&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Cybersecurity%20%C2%B7%20Software%20%C2%B7%20Red%20Team%20%C2%B7%20Pentesting&descAlignY=58&descSize=18" width="100%" alt="devshm3 banner" />
+  <img src="https://raw.githubusercontent.com/devshm3/devshm3/main/assets/header.svg" width="100%" alt="devshm3 — red team breach console" />
 </p>
 
 <!-- ── TYPING INTRO ─────────────────────────────────────────────── -->
@@ -108,7 +108,7 @@ devshm3@github:~$ whoami
 └─ status   : always learning ▓▓▓▓▓▓▓▓▓░ 90%
 ```
 
-<!-- ── FOOTER ───────────────────────────────────────────────────── -->
+<!-- ── FOOTER (self-hosted, original SVG — assets/footer.svg) ────── -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:bb9af7,50:7aa2f7,100:1a1b26&height=120&section=footer" width="100%" alt="footer" />
+  <img src="https://raw.githubusercontent.com/devshm3/devshm3/main/assets/footer.svg" width="100%" alt="connection to target closed" />
 </p>
